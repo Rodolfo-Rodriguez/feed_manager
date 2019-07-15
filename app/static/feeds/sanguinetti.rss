@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/sanguinetti.rss" rel="self" type="application/rss+xml" />
+    <title>Cesar Sanguinetti</title>
+    <link>https://www.oceano.uy/todopasa/147-musica</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/sanguinetti.jpg</url>
+        <title>Cesar Sanguinetti</title>
+        <link>https://www.oceano.uy/todopasa/147-musica</link>
+    </image>
+    <description>Columna de Cesar Sanguinetti en Oceano</description>
+    <pubDate>Fri, 12 Jul 2019 16:43:30 GMT</pubDate>
+
+	<item>
+		<title>Lo mejor en la pantalla</title>
+		<pubDate>Mon, 08 Jul 2019 00:00:00 GMT</pubDate>
+		<description>César Sanguinetti presentó los mejores videoclip del año, nominados a los Premios Graffiti. Desde No te va gustar, pasan</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-08cesar.mp3" length="0" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-08cesar.mp3</guid>
+	</item>
+
+	<item>
+		<title>Con Cuatro Pesos de Propina</title>
+		<pubDate>Mon, 01 Jul 2019 12:00:00 GMT</pubDate>
+		<description>La banda se rearmó tras la partida de Diego Rossberg y sacaron su nuevo disco, "La llama”, que presentarán en la Sala del Museo, el próximo 6 de julio</description>
+		<enclosure url="https://audios.oceanofm.com/programas/TodoPasa/19-07-012amaanaLaPeadeCesarcon4pesosdepropina.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://audios.oceanofm.com/programas/TodoPasa/19-07-012amaanaLaPeadeCesarcon4pesosdepropina.mp3</guid>
+	</item>
+
+</channel></rss>

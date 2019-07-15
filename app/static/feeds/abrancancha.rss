@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/abrancancha.rss" rel="self" type="application/rss+xml" />
+    <title>Abran Cancha</title>
+    <link>https://delsol.uy/abrancancha</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/abrancancha.jpg</url>
+        <title>Abran Cancha</title>
+        <link>https://delsol.uy/abrancancha</link>
+    </image>
+    <description></description>
+    <pubDate>Fri, 12 Jul 2019 16:40:38 GMT</pubDate>
+
+	<item>
+		<title>La Vida de Alfredo Zitarrosa</title>
+		<pubDate>Sat, 22 Jun 2019 12:00:00 GMT</pubDate>
+		<description>Su infancia y adolescencia, sus inicios en la música, su gusto por la poesía, su etapa como periodista, la consolidación de su carrera, el exilio y su regreso a Uruguay.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13518.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13518.mp3</guid>
+	</item>
+
+	<item>
+		<title>La vida de Diego Forlán, la oportunidad para dejar de ser el “hijo de” y el sentido de pertenencia a Uruguay </title>
+		<pubDate>Sat, 25 May 2019 12:00:00 GMT</pubDate>
+		<description>Su infancia y adolescencia, sus inicios en el fútbol, los primeros pasos en Independiente, su trayectoria en Europa, el éxito de la selección uruguaya y la importancia de la educación en el fútbol.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/12981.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/12981.mp3</guid>
+	</item>
+
+	<item>
+		<title>La vida de Mario Benedetti, el valor de su obra y la influencia de la Revolución Cubana </title>
+		<pubDate>Sat, 18 May 2019 12:00:00 GMT</pubDate>
+		<description>Su infancia y adolescencia, sus inicios en la escritura, el valor de su obra literaria, su accionar político entre el antiimperialismo y la Revolución Cubana, y la Fundación Benedetti.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/12826.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/12826.mp3</guid>
+	</item>
+
+</channel></rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/otroelefante.rss" rel="self" type="application/rss+xml" />
+    <title>Otro Elefante</title>
+    <link>https://espectador.com/otroelefante</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/otroelefante.jpg</url>
+        <title>Otro Elefante</title>
+        <link>https://espectador.com/otroelefante</link>
+    </image>
+    <description>Otro Elefante en El Espectador</description>
+    <pubDate>Sun, 14 Jul 2019 15:42:32 GMT</pubDate>
+
+	<item>
+		<title>Programa completo del Vie 12/07/2019 </title>
+		<pubDate>Fri, 12 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Números — Entrevista a Gonzalo Denis y Florencia Núñez — El Moncho en "No te hagas el ateo": TED Vaticano </description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2392.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2392.mp3</guid>
+                <itunes:duration>2:34:13</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del Jue 11/07/2019 </title>
+		<pubDate>Thu, 11 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Espejos—Maxi Guerra: Grandes fiascos de los mercados de pases—Migue Dobrich: O Terno—Sergio Pena: Plataforma de Screaming volumen II</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2367.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2367.mp3</guid>
+                <itunes:duration>2:34:33</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del Mar 09/07/2019 </title>
+		<pubDate>Tue, 09 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: La leyenda del secuestrador invisible—Miguel Ángel Dobrich: Stranger Things, tercera temporada—Pablo Silvera: Segunda entrega de vacaciones galácticas—Maxi Guerra: ¿Qué tan confiables son nuestros recuerdos?</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2312.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2312.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del Lun 08/07/2019 </title>
+		<pubDate>Mon, 08 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: El VAR, una discusión dentro y fuera de la cancha—El Moncho: Ey! .El manifiesto no se termina—Darío Sztajnszrajber: La vocación—Maxi Guerra: Rescates y desencuentros de Ramón Mérica</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2290.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2290.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del Vie 05/07/2019 </title>
+		<pubDate>Fri, 05 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: El universo de las espadas—Entrevista a la banda Hablan por la espalda—Entrevista a el “Mono”, Federico Bavosi: Un valor de deportista</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2259.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2259.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del Jue 04/07/2019 </title>
+		<pubDate>Thu, 04 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Protocolo de emergencia—Miguel Ángel Dobrich: Capítulo II de “vacaciones de julio puertas adentro”—Maxi Guerra: Las voces de Svetlana Alexiévich—Sergio Pena: Plataforma de Screaming</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2229.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2229.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del Mie 03/07/2019 </title>
+		<pubDate>Wed, 03 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Aniversario del Walkman—Maxi Guerra: En busca del comunista más comunista de Islandia—Moncho: Una columna que no es columna</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2204.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2204.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del Mar 02/07/2019 </title>
+		<pubDate>Tue, 02 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Caminar juntos—Miguel Ángel Dobrich: Vacaciones de julio puertas adentro—Pablo Silvera: Trilogía E.N.I—L´almacen de los males necesarios: La derrota</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2180.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2180.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del Lun 01/07/2019 </title>
+		<pubDate>Mon, 01 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Democracia electoral—Manifiesto del Moncho: Promesas para una columna—Maxi Guerra: Las vidas extras de Wilko Johnson—Darío Sztajnszrajber: Platón, apología de Sócrates</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2158.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2158.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/.rss" rel="self" type="application/rss+xml" />
+    <title>Coffee Break</title>
+    <link>http://vivaldi.ll.iac.es/proyecto/coffeebreak</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/CoffeeBreak.png</url>
+        <title>Coffee Break</title>
+        <link>http://vivaldi.ll.iac.es/proyecto/coffeebreak</link>
+    </image>
+    <description>Coffee Break: Señal y Ruido es la tertulia semanal en la que, medio en broma medio en serio, repasamos las últimas noticias de la actualidad científica.</description>
+    <pubDate>Fri, 12 Jul 2019 20:00:19 GMT</pubDate>
+
+	<item>
+		<title>Ep223: Metano Marciano; Luz Helicoidal; Astronomía ProAm; IA y Lenguas Perdidas; Neuronas de Cultivo; CRISPR vs SIDA</title>
+		<pubDate>Thu, 11 Jul 2019 20:57:42 GMT</pubDate>
+		<description>La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Aleix R</description>
+		<enclosure url="http://www.ivoox.com/ep223-metano-marciano-luz-helicoidal-astronomia-proam-ia_mf_38329087_feed_1.mp3" length="84007541" type="audio/mpeg"/>
+		<guid>http://www.ivoox.com/ep223-metano-marciano-luz-helicoidal-astronomia-proam-ia_mf_38329087_feed_1.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Ep222: Simular Universo en IA; Hiperactividad y Cerebro; Estrellas Pulsantes; Meteoritos Marcianos; 2º FRB localizado!</title>
+		<pubDate>Thu, 04 Jul 2019 21:34:31 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://www.ivoox.com/ep222-simular-universo-ia-hiperactividad-cerebro_mf_38023907_feed_1.mp3" length="82349706" type="audio/mpeg"/>
+		<guid>http://www.ivoox.com/ep222-simular-universo-ia-hiperactividad-cerebro_mf_38023907_feed_1.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Ep221: Serie Chernobyl; Energía Oscura/Gravedad Cuántica; Nuevos Exoplanetas; Más Metano en Marte; Seres Pluricelulares</title>
+		<pubDate>Thu, 27 Jun 2019 21:11:48 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://www.ivoox.com/ep221-serie-chernobyl-energia-oscura-gravedad-cuantica-nuevos-exoplanetas_mf_37684881_feed_1.mp3" length="78840520" type="audio/mpeg"/>
+		<guid>http://www.ivoox.com/ep221-serie-chernobyl-energia-oscura-gravedad-cuantica-nuevos-exoplanetas_mf_37684881_feed_1.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

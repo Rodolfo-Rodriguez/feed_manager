@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/ciencia.rss" rel="self" type="application/rss+xml" />
+    <title>Ciencia</title>
+    <link>http://the2rods.com:8000/podcast/episode/list/53</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/ciencia.jpg</url>
+        <title>Ciencia</title>
+        <link>http://the2rods.com:8000/podcast/episode/list/53</link>
+    </image>
+    <description>Compilado de Podcasts de Ciencia</description>
+    <pubDate>Fri, 12 Jul 2019 20:09:41 GMT</pubDate>
+
+	<item>
+		<title>[Coffee Break] Ep223</title>
+		<pubDate>Thu, 11 Jul 2019 20:57:42 GMT</pubDate>
+		<description>Metano Marciano; Luz Helicoidal; Astronomía ProAm; IA y Lenguas Perdidas; Neuronas de Cultivo; CRISPR vs SIDA</description>
+		<enclosure url="http://www.ivoox.com/ep223-metano-marciano-luz-helicoidal-astronomia-proam-ia_mf_38329087_feed_1.mp3" length="84007541" type="audio/mpeg"/>
+		<guid>http://www.ivoox.com/ep223-metano-marciano-luz-helicoidal-astronomia-proam-ia_mf_38329087_feed_1.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>[Daniel and Jorge] How do you make gold?</title>
+		<pubDate>Thu, 11 Jul 2019 08:00:00 GMT</pubDate>
+		<description>Where does gold come from? Can scientists make it?</description>
+		<enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/HSW6739601572.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/HSW6739601572.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>[AaS] Ep.107</title>
+		<pubDate>Tue, 02 Jul 2019 11:00:00 GMT</pubDate>
+		<description>Is interstellar travel possible?</description>
+		<enclosure url="https://traffic.libsyn.com/secure/askaspaceman/aas107.mp3?dest-id=234448" length="27144529" type="audio/mpeg"/>
+		<guid>https://traffic.libsyn.com/secure/askaspaceman/aas107.mp3?dest-id=234448</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>[AstroBlog] La vida en el universo [Ep.162]</title>
+		<pubDate>Mon, 24 Jun 2019 19:54:03 GMT</pubDate>
+		<description>¿Cómo se formó la vida en la Tierra?, ¿de dónde vienen las moléculas que forman la vida?, ¿podrá el sistema solar alberg</description>
+		<enclosure url="http://traffic.libsyn.com/astroetal/Ep162.mp3" length="53067778" type="audio/mpeg"/>
+		<guid>http://traffic.libsyn.com/astroetal/Ep162.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>[Catástrofe Ultravioleta] Ep.3</title>
+		<pubDate>Thu, 22 May 2014 11:40:59 GMT</pubDate>
+		<description>INTERFERENCIAS</description>
+		<enclosure url="http://www.ivoox.com/catastrofe-ultravioleta-03-interferencias_mf_3143237_feed_1.mp3" length="49443853" type="audio/mpeg"/>
+		<guid>http://www.ivoox.com/catastrofe-ultravioleta-03-interferencias_mf_3143237_feed_1.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>[Catástrofe Ultravioleta] Ep.2</title>
+		<pubDate>Thu, 24 Apr 2014 10:31:44 GMT</pubDate>
+		<description>INTERFERENCIAS</description>
+		<enclosure url="http://www.ivoox.com/catastrofe-ultravioleta-02-precision_mf_3051725_feed_1.mp3" length="36865794" type="audio/mpeg"/>
+		<guid>http://www.ivoox.com/catastrofe-ultravioleta-02-precision_mf_3051725_feed_1.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>[Catástrofe Ultravioleta] Ep.0</title>
+		<pubDate>Mon, 17 Mar 2014 10:46:00 GMT</pubDate>
+		<description>PROMO</description>
+		<enclosure url="http://www.ivoox.com/promo-catastrofe-ultravioleta_mf_2931411_feed_1.mp3" length="1126109" type="audio/mpeg"/>
+		<guid>http://www.ivoox.com/promo-catastrofe-ultravioleta_mf_2931411_feed_1.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

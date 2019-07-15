@@ -1,0 +1,240 @@
+{% extends "base.html" %}
+
+{% block title %} RadioPlayer {% endblock %}
+
+{% block body %}
+
+<div class="row">
+
+<div class="col-player">
+<!--   <div class="bs-component"> -->
+
+    <div class="card text-white bg-primary mb-3">
+
+ 
+      <h5 class="card-header">{{radio.name}}</h5>
+
+       <div class="card-body">
+         <p class="card-text">{{radio.description}}</p>
+       </div>
+
+
+       <div class="card-body" style ="padding: 5px;">
+         
+         <div class="thumb-container">
+           <img src="/static/images/radios/{{radio.image}}" class="thumb-image">
+           <div class="thumb-overlay">
+             <div class="thumb-overlay-main-player">
+             </div>
+
+             <div class="thumb-overlay-fav">
+               {% if radio.fav %}
+                  <a href="{{url_for('radio.radio_unfav',id=radio.id)}}"><i class="fas fa-star"></i></a>           
+               {% else %}
+                  <a href="{{url_for('radio.radio_fav',id=radio.id)}}"><i class="far fa-star"></i></a>            
+               {% endif %}
+             </div>
+           
+           </div>
+         </div>
+       
+       </div>
+
+       <div class="card-body">
+        <ul class="list-group list-group-flush">
+
+         <li class="list-group-item text-center" style="font-size: 1.5rem;">
+         {% for star in range(0,radio.stars) %}
+           <a href="/radio/stars/{{radio.id}}/{{star + 1}}"><i class="fas fa-star"></i></a>
+         {% endfor %}
+         {% for star in range(radio.stars,5) %}
+           <a href="/radio/stars/{{radio.id}}/{{star + 1}}"><i class="far fa-star"></i></a>
+         {% endfor %}
+         </li>
+        
+         <li class="list-group-item text-center">
+           <a href="/radio/country/{{radio.country}}" class="card-link"><img src="/static/images/flags/{{radio.country}}-24.png"></a>
+         </li>
+
+         <li class="list-group-item text-center">
+           <a href="/radio/style/{{radio.style}}" class="card-link"><strong>{{radio.style}}</strong></a>
+         </li>
+
+         <li class="list-group-item text-center">
+           <strong>{{programs_info.radio_time_day()}}</strong>
+         </li>
+
+        </ul>
+       </div>
+
+       <div class="card-footer">
+        <p class="card-text text-right">
+          <a class="card-link" href="/radio/edit_image/{{radio.id}}">Edit Image</a>
+        </p>
+       </div>
+
+    </div>
+<!--   </div> -->
+</div>
+
+
+<div class="col-info">
+
+  <div class="bs-component">
+    
+    <div class="card text-white bg-dark mb-3" style="max-width: 100%;">
+      <h5 class="card-header">Info</h5>
+      <div class="card-body">
+
+        <ul class="list-group list-group-flush">
+             <li class="list-group-item">
+               <div class="info-list-items">
+                  <div class="info-title"><strong>ID</strong></div>
+                  <div class="info-text">{{radio.id}}</div>
+               </div>
+             </li>
+
+             <li class="list-group-item">
+               <div class="info-list-items">
+                 <div class="info-title"><strong>URL</strong></div>
+                 <div class="info-text">{{radio.url}}</div>
+               </div>
+             </li>
+               
+        </ul>
+
+    </div>
+
+
+    <div class="card-footer">
+      <p class="card-text text-right">
+        <a class="card-link" href="/radio/edit/{{radio.id}}">Edit</a>
+      </p>
+    </div>
+
+   </div>
+
+
+   <div class="card text-white bg-dark mb-3" style="max-width: 100%;">
+     <h5 class="card-header">Programs</h5>
+      <div class="card-body">
+
+        {% for program in programs_info.program_list() %}
+
+          {% if programs_info.is_prog_today(program) %}
+
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+              <div class="info-prog">
+
+                {% if programs_info.is_prog_live(program) %}
+
+                <div class="info-prog-date_time prog-live"><strong>{{program.times}}</strong></div>
+                <div class="info-prog-name prog-live">{{program.name}}</div>
+                <div class="info-prog-description prog-live">{{program.description}}</div>
+
+                {% else %}
+
+                <div class="info-prog-date_time"><strong>{{program.times}}</strong></div>
+                <div class="info-prog-name">{{program.name}}</div>
+                <div class="info-prog-description">{{program.description}}</div>
+
+                {% endif %}
+
+                <div class="info-prog-tag"><a target="blank" href="{{program.twitter}}"><i class="fab fa-twitter"></i></a></div>
+                <div class="info-prog-tag"><a href="/radio/edit_program/{{program.id}}"><i class="fas fa-edit"></i></a></div>
+                <div class="info-prog-tag"><a href="/radio/delete_program/{{program.id}}"><i class="fas fa-trash-alt"></i></a></div>
+              </div>
+            </li>
+          </ul>
+
+          {% endif %}
+
+        {% endfor %}
+
+      </div>
+
+      <div class="card-footer">
+      <p class="card-text text-right">
+
+        {% for wday in range(0,7) %}
+
+          {% if programs_info.list_week_day == wday %}
+            <a class="card-link" href="/radio/set_wday/{{radio.id}}/{{wday}}" style="color:lightgreen;">{{programs_info.week_day_letter(wday)}}</a>
+          {% else %}
+            <a class="card-link" href="/radio/set_wday/{{radio.id}}/{{wday}}">{{programs_info.week_day_letter(wday)}}</a>
+          {% endif %}
+
+        {% endfor %}
+
+      </p>
+      <p class="card-text text-right">
+        <a class="card-link" href="/radio/add_program/{{radio.id}}">Add Program</a>
+      </p>
+    </div>
+
+   </div>
+  
+  </div>
+
+</div>
+
+
+<div class="col-links">
+
+  <div class="bs-component">
+    <div class="card text-white bg-dark mb-3" style="max-width: 100%;">
+      <h5 class="card-header">Social</h5>
+      <div class="card-body">
+
+        <ul class="list-group list-group-flush">
+
+               <li class="list-group-item text-center">
+                 {% for link in radio.radio_link_list %}
+                  {% if link.name in social_sites %}
+                   <a target="blank" href="{{link.url}}" class="card-link" style="font-size: 1.5rem;"><i class="fab fa-{{link.name}} "></i></a>
+                  {% endif %}
+                 {% endfor %}
+              </li>
+
+        </ul>
+
+    </div>
+
+      <h5 class="card-header">Links</h5>
+      <div class="card-body">
+
+        <ul class="list-group list-group-flush">
+
+             {% for link in radio.radio_link_list %}
+              {% if not(link.name in social_sites) %}
+               <li class="list-group-item">
+                <div class="episode-list-col">
+                  <div class="song-text"><a target="blank" href="{{link.url}}" class="card-link"><strong>{{link.name}}</strong></a></div>
+                  <div class="song-tag"><a href="/radio/edit_link/{{link.id}}"><i class="fas fa-edit"></i></a></div>
+                  <div class="song-tag"><a href="/radio/delete_link/{{link.id}}"><i class="fas fa-trash-alt"></i></a></div>
+                </div>
+              </li>
+              {% endif %}
+             {% endfor %}
+
+        </ul>
+
+    </div>
+
+    <div class="card-footer">
+      <p class="card-text text-right">
+            <a class="card-link" href="/radio/add_link/{{radio.id}}">Add Link</a>
+      </p>
+    </div>
+
+   </div>
+  </div>
+</div>
+
+</div>
+
+<!-- Page -->
+
+{% endblock body %}
+

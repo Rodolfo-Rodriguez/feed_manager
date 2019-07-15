@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/master.rss" rel="self" type="application/rss+xml" />
+    <title>Master</title>
+    <link>None</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/master.jpg</url>
+        <title>Master</title>
+        <link>None</link>
+    </image>
+    <description>Master Feed for all files</description>
+    <pubDate>Fri, 12 Jul 2019 19:57:53 GMT</pubDate>
+
+	<item>
+		<title>Mejor Hablar de Ciertas Cosas: 11/07/19</title>
+		<pubDate>Thu, 11 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Nelson Barceló presentó lo último de AFC, La Memoria, El Gavilan y la banda alemana Nunofyrbeeswax.</description>
+		<enclosure url="http://audios.oceanofm.com/programas/Abrepalabra/19-07-11mejorhablar.mp3" length="21241838" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/Abrepalabra/19-07-11mejorhablar.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>"Hagamos esa vaina de la radio"</title>
+		<pubDate>Tue, 14 May 2019 06:00:08 GMT</pubDate>
+		<description>"Hagamos esa vaina de la radio": con esa frase empezó Radio Ambulante. Hoy, para celebrar nuestro séptimo cumpleaños, le</description>
+		<enclosure url="https://play.podtrac.com/npr-510315/edge1.pod.npr.org/anon.npr-mp3/npr/ambul/2019/05/20190514_ambul_esa_vaina_de_la_radio.mp3?awCollectionId=510315&awEpisodeId=723043070&orgId=1&d=3110&p=510315&story=723043070&t=podcast&e=723043070&size=49652607&ft=pod&f=510315" length="49652607" type="audio/mpeg"/>
+		<guid>https://play.podtrac.com/npr-510315/edge1.pod.npr.org/anon.npr-mp3/npr/ambul/2019/05/20190514_ambul_esa_vaina_de_la_radio.mp3?awCollectionId=510315&awEpisodeId=723043070&orgId=1&d=3110&p=510315&story=723043070&t=podcast&e=723043070&size=49652607&ft=pod&f=510315</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

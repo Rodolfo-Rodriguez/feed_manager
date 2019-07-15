@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/lamesa.rss" rel="self" type="application/rss+xml" />
+    <title>La Mesa de los Galanes</title>
+    <link>https://delsol.uy/lamesa</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/LaMesa.png</url>
+        <title>La Mesa de los Galanes</title>
+        <link>https://delsol.uy/lamesa</link>
+    </image>
+    <description>Humor y actualidad con la participación de Jorge Piñeyrúa, Rafael Cotelo, Pablo Fabregat, Diego González, Pablo Aguirrezábal, Camilo Fernández y Gastón Carbajal.</description>
+    <pubDate>Sun, 14 Jul 2019 15:39:40 GMT</pubDate>
+
+	<item>
+		<title>Programa del 12/07/2019</title>
+		<pubDate>Fri, 12 Jul 2019 05:23:24 GMT</pubDate>
+		<description>Programa del 12/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13937.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13937.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 11/07/2019</title>
+		<pubDate>Thu, 11 Jul 2019 06:22:20 GMT</pubDate>
+		<description>Programa del 11/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13913.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13913.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 10/07/2019</title>
+		<pubDate>Wed, 10 Jul 2019 05:49:06 GMT</pubDate>
+		<description>Programa del 10/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13889.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13889.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 09/07/2019</title>
+		<pubDate>Tue, 09 Jul 2019 05:14:11 GMT</pubDate>
+		<description>Programa del 09/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13867.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13867.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 08/07/2019</title>
+		<pubDate>Mon, 08 Jul 2019 06:00:03 GMT</pubDate>
+		<description>Programa del 08/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13846.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13846.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 05/07/2019</title>
+		<pubDate>Fri, 05 Jul 2019 06:44:08 GMT</pubDate>
+		<description>Programa del 05/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13811.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13811.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 04/07/2019</title>
+		<pubDate>Thu, 04 Jul 2019 05:06:15 GMT</pubDate>
+		<description>Programa del 04/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13783.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13783.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 03/07/2019</title>
+		<pubDate>Wed, 03 Jul 2019 05:17:03 GMT</pubDate>
+		<description>Programa del 03/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13755.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13755.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 02/07/2019</title>
+		<pubDate>Tue, 02 Jul 2019 05:13:19 GMT</pubDate>
+		<description>Programa del 02/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13728.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13728.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

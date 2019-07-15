@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/dearriba.rss" rel="self" type="application/rss+xml" />
+    <title>De Arriba Un Rayo</title>
+    <link>https://www.oceano.uy/dearribaunrayo</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/dearriba.jpg</url>
+        <title>De Arriba Un Rayo</title>
+        <link>https://www.oceano.uy/dearribaunrayo</link>
+    </image>
+    <description>De Arriba un Rayo. Un programa de Juguete.</description>
+    <pubDate>Sun, 14 Jul 2019 15:37:49 GMT</pubDate>
+
+	<item>
+		<title>De Arriba Un Rayo 12/07/19</title>
+		<pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-12completo.mp3" length="102984936" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-12completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo 11/07/19</title>
+		<pubDate>Thu, 11 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-11completo.mp3" length="209688976" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-11completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Mie 10/07/19</title>
+		<pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-10completo.mp3" length="218341985" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-10completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Mar 09/07/19</title>
+		<pubDate>Tue, 09 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-09completo.mp3" length="90757123" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-09completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo del Lun 08/07/19</title>
+		<pubDate>Mon, 08 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-08ProgramaCompleto.mp3" length="221341887" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-08ProgramaCompleto.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Vie 05/07/19</title>
+		<pubDate>Fri, 05 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-05Completo.mp3" length="211443777" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-05Completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Jue 04/07/19</title>
+		<pubDate>Thu, 04 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-04completo.mp3" length="208240747" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-04completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Mie 03/07/19</title>
+		<pubDate>Wed, 03 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-03completo.mp3" length="0" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-03completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Jue 02/07/19</title>
+		<pubDate>Tue, 02 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-02completo.mp3" length="0" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-02completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Lun 01/07/19</title>
+		<pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-01completo.mp3" length="0" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-01completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

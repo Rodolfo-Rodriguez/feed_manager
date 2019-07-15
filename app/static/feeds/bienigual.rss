@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/bienigual.rss" rel="self" type="application/rss+xml" />
+    <title>Bien Igual</title>
+    <link>https://espectador.com/bienigual</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/bienigual.png</url>
+        <title>Bien Igual</title>
+        <link>https://espectador.com/bienigual</link>
+    </image>
+    <description></description>
+    <pubDate>Fri, 12 Jul 2019 16:44:04 GMT</pubDate>
+
+	<item>
+		<title>Próximo estreno: Years and Years</title>
+		<pubDate>Thu, 27 Jun 2019 12:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2104.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2104.mp3</guid>
+	</item>
+
+</channel></rss>

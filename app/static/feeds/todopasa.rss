@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/todopasa.rss" rel="self" type="application/rss+xml" />
+    <title>Todo Pasa</title>
+    <link>https://www.oceano.uy/todopasa</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/todopasa.jpg</url>
+        <title>Todo Pasa</title>
+        <link>https://www.oceano.uy/todopasa</link>
+    </image>
+    <description>Programa periodístico de Oceano FM con Mariano Lopez, Andres Reyes, Majo Borjes e Ines Pereira.</description>
+    <pubDate>Mon, 15 Jul 2019 15:25:13 GMT</pubDate>
+
+	<item>
+		<title>España compra goles</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Maxi Gómez fue presentado en Valencia y Griezmann en Barcelona. Los poderosos barajan y reparten golpeando la mesa a fue</description>
+		<enclosure url="http://audios.oceanofm.com/programas/19-07-15MarioBardanca2.mp3" length="32805723" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/19-07-15MarioBardanca2.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Una pizca de tolerancia</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Peñarol recuperó ventaja en la anual. Darwin Nuñez transformó las duras críticas en elogios a fuerza de goles. La column</description>
+		<enclosure url="http://audios.oceanofm.com/programas/19-07-15MarioBardanca1.mp3" length="31006409" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/19-07-15MarioBardanca1.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>El intento de Cosse de cerrar el relato</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description>La precandidata del Frente Amplio que quedó en segundo lugar en las elecciones internas publicó una foto en Twitter con </description>
+		<enclosure url="http://audios.oceanofm.com/programas/19-07-15JavierMassaylosmensajesdeCosseyVillar.mp3" length="32801753" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/19-07-15JavierMassaylosmensajesdeCosseyVillar.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Paro sorpresivo en Copsa por sanciones abusivas</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description>La Asociación de Trabajadores de Copsa realizó un paro sin aviso desde las 5 horas hasta las 9. "Tenemos problemas en re</description>
+		<enclosure url="http://audios.oceanofm.com/programas/19-07-15HumbertoCipitriaporparodeCopsa.mp3" length="2731679" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/19-07-15HumbertoCipitriaporparodeCopsa.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Nunca nadie ganó tanto</title>
+		<pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Dani Alves se transformó en el futbolista más laureado de la historia. Un sueño alimentado en la pobreza, con noches sob</description>
+		<enclosure url="http://audios.oceanofm.com/programas/19-07-12MaroBardancaconDaniAlves.mp3" length="18749129" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/19-07-12MaroBardancaconDaniAlves.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Todo Pasa 12/07/2019</title>
+		<pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/19-07-12programaentero.mp3" length="181918409" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/19-07-12programaentero.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

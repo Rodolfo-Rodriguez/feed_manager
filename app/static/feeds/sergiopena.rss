@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/sergiopena.rss" rel="self" type="application/rss+xml" />
+    <title>Sergio Pena</title>
+    <link>https://espectador.com/otroelefante/sergiopena</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/sergiopena.jpg</url>
+        <title>Sergio Pena</title>
+        <link>https://espectador.com/otroelefante/sergiopena</link>
+    </image>
+    <description></description>
+    <pubDate>Sun, 14 Jul 2019 15:42:41 GMT</pubDate>
+
+	<item>
+		<title>Plataforma de Screaming volumen II </title>
+		<pubDate>Thu, 11 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Entre gaviotas, poemas y  freakingos, Sergio Pena nos regala un segundo volumen de su plataforma de screaming y la película escondida en el último partido de Filmball.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2365.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2365.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Se confirmó la fórmula presidencial </title>
+		<pubDate>Wed, 10 Jul 2019 12:00:00 GMT</pubDate>
+		<description>El partido Biolosófico de la mano de Sergio Pena se une a la victoria electoral del Moncho para presentar su plan de gobierno “De cada pueblo un programa”.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2335.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2335.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Plataforma de Screaming  </title>
+		<pubDate>Thu, 04 Jul 2019 12:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2227.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2227.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>La derrota </title>
+		<pubDate>Tue, 02 Jul 2019 12:00:00 GMT</pubDate>
+		<description>None</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2178.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2178.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Campañas políticas en entredicho </title>
+		<pubDate>Tue, 25 Jun 2019 12:00:00 GMT</pubDate>
+		<description>None</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2039.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2039.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Los Dolcheviques </title>
+		<pubDate>Tue, 18 Jun 2019 12:00:00 GMT</pubDate>
+		<description>None</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/1914.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/1914.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/osr.rss" rel="self" type="application/rss+xml" />
+    <title>Oceano Sports Radio</title>
+    <link>https://www.oceano.uy/justiciainfinita/94-oceano-sports-radio</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/OSR.jpg</url>
+        <title>Oceano Sports Radio</title>
+        <link>https://www.oceano.uy/justiciainfinita/94-oceano-sports-radio</link>
+    </image>
+    <description></description>
+    <pubDate>Fri, 12 Jul 2019 16:42:41 GMT</pubDate>
+
+	<item>
+		<title>De taquinho y pizarrinha</title>
+		<pubDate>Mon, 08 Jul 2019 00:00:00 GMT</pubDate>
+		<description>¿La final más aburrida de la historia de la Copa América? Puede ser, pero nada mejor para sobrellevar el mal trago que e</description>
+		<enclosure url="http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-08osr.mp3" length="0" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-08osr.mp3</guid>
+	</item>
+
+	<item>
+		<title>Que vuelvan los garcas de antes!</title>
+		<pubDate>Fri, 05 Jul 2019 00:00:00 GMT</pubDate>
+		<description>"Se han perdido los valores. Antes el fútbol se arreglaba como los caballeros arreglan las cosas: EN el BAR, no CON el V</description>
+		<enclosure url="http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-05osr.mp3" length="0" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-05osr.mp3</guid>
+	</item>
+
+	<item>
+		<title>Los futuros VARistas</title>
+		<pubDate>Mon, 01 Jul 2019 12:00:00 GMT</pubDate>
+		<description>En términos técnicos, quedamos todos hechos garcha. Hay que empezar a ensuciarse las manos y sacar a los niños de esa pavada del baby fútbol para entrenarlos como buenos garcas del VAR</description>
+		<enclosure url="https://audios.oceanofm.com/programas/JusticiaInfinita/19-07-01OSR2.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://audios.oceanofm.com/programas/JusticiaInfinita/19-07-01OSR2.mp3</guid>
+	</item>
+
+	<item>
+		<title>El "Clásico del hambre"</title>
+		<pubDate>Fri, 28 Jun 2019 12:00:00 GMT</pubDate>
+		<description>Hoy se juega el partido más importante de la Copa, y el infradotado de Otamendi va a ser titular. Un jugador que inspiró a un montón de burros a hacer filas para probarse en el City con la idea de que tan mal no lo pueden hacer</description>
+		<enclosure url="https://audios.oceanofm.com/programas/JusticiaInfinita/19-06-28OSR.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://audios.oceanofm.com/programas/JusticiaInfinita/19-06-28OSR.mp3</guid>
+	</item>
+
+	<item>
+		<title>El Cláxico son los padres</title>
+		<pubDate>Mon, 24 Jun 2019 12:00:00 GMT</pubDate>
+		<description>¿Qué es esto de hablar de "cláxico" con Chile? Chile tiene su en la mesa de los niños, junto a Ecuador, Colombia, Paraguay, Perú y Venezuela. Uruguay come en la mesa de los grandes, con Argentina y Brasi</description>
+		<enclosure url="https://audios.oceanofm.com/programas/JusticiaInfinita/19-06-24OSR.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://audios.oceanofm.com/programas/JusticiaInfinita/19-06-24OSR.mp3</guid>
+	</item>
+
+</channel></rss>

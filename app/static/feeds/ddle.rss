@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/ddle.rss" rel="self" type="application/rss+xml" />
+    <title>Diego de la Escucha</title>
+    <link>https://oceano.uy/dearribaunrayo/172-diego-de-la-escucha</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/ddle.jpg</url>
+        <title>Diego de la Escucha</title>
+        <link>https://oceano.uy/dearribaunrayo/172-diego-de-la-escucha</link>
+    </image>
+    <description></description>
+    <pubDate>Sun, 14 Jul 2019 16:06:46 GMT</pubDate>
+
+	<item>
+		<title>DDLE: Pronóstico reservado</title>
+		<pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Cargadísimo el Zapping Radial de Diego de la Escucha, con un Guillermo Ramis con pocas pulgas,  Alvaro González Márquez </description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-12ddle.mp3" length="15359271" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-12ddle.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>DDLE: La Vice hizo ruido</title>
+		<pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
+		<description>El Frente Amplio eligió finalmente su candidata para acompañar en la fórmula a Daniel Martínez. Diego de la Escucha revi</description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-10ddle.mp3" length="30400159" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-10ddle.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>DDLE: ¿El Maestro contra todos?</title>
+		<pubDate>Fri, 05 Jul 2019 00:00:00 GMT</pubDate>
+		<description>El archivo de Diego de la Escucha recoge la polémica por las críticas al Maestro Tabárez luego de la eliminación de la C</description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-05DiegodelaEscucha.mp3" length="53391885" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-05DiegodelaEscucha.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>DDLE: Se busca Vice</title>
+		<pubDate>Wed, 03 Jul 2019 00:00:00 GMT</pubDate>
+		<description>El archivo de Diego de la Escucha recopila voces de los diferentes actores políticos sobre la búsqueda de los candidatos</description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-03ddle.mp3" length="28351323" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-03ddle.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

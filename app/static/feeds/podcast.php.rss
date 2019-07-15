@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/podcast.php.rss" rel="self" type="application/rss+xml" />
+    <title>Oceano</title>
+    <link>http://www.the2rods.com</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/Oceano.png</url>
+        <title>Oceano</title>
+        <link>http://www.the2rods.com</link>
+    </image>
+    <description>Oceano</description>
+    <pubDate>Fri, 12 Jul 2019 00:13:04 GMT</pubDate>
+
+	<item>
+		<title>El extraño campamento para la rehabilitación de adolescentes adictos a internet</title>
+		<pubDate>Thu, 11 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Gabriel Aliskevich nos habló sobre un extraño lugar en Corea del Sur que rehabilita a jóvenes adictos a internet.</description>
+		<enclosure url="http://audios.oceanofm.com/programas/Abrepalabra/19-07-11materiavirtual.mp3" length="0" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/Abrepalabra/19-07-11materiavirtual.mp3</guid>
+	</item>
+
+</channel></rss>

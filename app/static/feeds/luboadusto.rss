@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/luboadusto.rss" rel="self" type="application/rss+xml" />
+    <title>Coqueto Escenario</title>
+    <link>https://www.oceano.uy/todopasa/137-coqueto-escenario</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/CoquetoEscenario.png</url>
+        <title>Coqueto Escenario</title>
+        <link>https://www.oceano.uy/todopasa/137-coqueto-escenario</link>
+    </image>
+    <description>Periodista deportivo nacido en 1931. En Uruguay. Menos proceso y más pierna fuerte.</description>
+    <pubDate>Fri, 12 Jul 2019 18:55:42 GMT</pubDate>
+
+	<item>
+		<title>Yo, argentina</title>
+		<pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Lubo Adusto Freire le hincó el diente a noticias insólitas que llegaron del otro lado del charco. La macrisis complicó a</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-122amaanaCoquetoescenario.mp3" length="23699438" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-122amaanaCoquetoescenario.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>¿Cómo se llamaba la bisabuela?</title>
+		<pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Lubo Adusto presentó la llegada de extranjeros al fútbol uruguayo con frases y preguntas muy serias. De yapa, el momento</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-102amaanaCoquetoescenario.mp3" length="19696643" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-102amaanaCoquetoescenario.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Ojo al gol</title>
+		<pubDate>Tue, 09 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Lubo Adusto apuró a Josema Caraballo con datos inquietantes. De paso, noticias insólitas, como los amigos que salieron a</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-092amaanaCoquetoescenario.mp3" length="29669985" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-092amaanaCoquetoescenario.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>La peor de todas</title>
+		<pubDate>Mon, 08 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Lubo Adusto de lleno con lo que dejó la Copa América en Brasil y todas sus vicisitudes. De yapa, noticias insólitas y el</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-08adusto.mp3" length="42142096" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-08adusto.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>La fama es lo de menos</title>
+		<pubDate>Fri, 05 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Lubo Adusto volvió recargado con la historia del "chinwenwencha", que trabaja en un merendero de Juan B Justo. El moment</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-05segundamaanaadusto.mp3" length="40845586" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-05segundamaanaadusto.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Tranquinal cero cinco</title>
+		<pubDate>Wed, 03 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Lubo Adusto Freire estuvo atento a las repercusiones de la eliminación argentina de la Copa América y se detuvo en los d</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-032amaanaCoquetoescenario.mp3" length="25883274" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-032amaanaCoquetoescenario.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Adusto ante Peluffo</title>
+		<pubDate>Tue, 02 Jul 2019 12:00:00 GMT</pubDate>
+		<description>El viejo investigó a fondo al músico y lo puso contra las cuerdas, no de la viola, con un cuestionario perspicaz. Lacalle Pou o Talvi, Chile o Perú, Pando o París, "Coco" Conde o Jorge Seré, y más</description>
+		<enclosure url="https://audios.oceanofm.com/programas/TodoPasa/19-07-022amaanaCoquetoescenarioconGuillePelufo.mp3" length="28628848" type="audio/mpeg"/>
+		<guid>https://audios.oceanofm.com/programas/TodoPasa/19-07-022amaanaCoquetoescenarioconGuillePelufo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Volvió el viejo</title>
+		<pubDate>Mon, 01 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Con mucha data, desparpajo y entusiasmo, Lubo Adusto retornó al estudio tras una lesión de sóleo que lo tuvo de licencia. Todo lo que dejaron las elecciones, noticias insólitas y la eliminación de Uruguay en América</description>
+		<enclosure url="https://audios.oceanofm.com/programas/TodoPasa/19-07-012amaanaCoquetoescenario.mp3" length="26189639" type="audio/mpeg"/>
+		<guid>https://audios.oceanofm.com/programas/TodoPasa/19-07-012amaanaCoquetoescenario.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

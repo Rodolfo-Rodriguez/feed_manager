@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/13a0.rss" rel="self" type="application/rss+xml" />
+    <title>13a0</title>
+    <link>https://delsol.uy/13a0</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/13a0.jpg</url>
+        <title>13a0</title>
+        <link>https://delsol.uy/13a0</link>
+    </image>
+    <description></description>
+    <pubDate>Fri, 12 Jul 2019 16:39:56 GMT</pubDate>
+
+	<item>
+		<title>“Brasil demostró ser un equipo trabajado y es campeón de la Copa América”</title>
+		<pubDate>Sun, 07 Jul 2019 12:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13824.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13824.mp3</guid>
+	</item>
+
+	<item>
+		<title>El colectivo de Brasil le ganó a una Argentina que luchó</title>
+		<pubDate>Tue, 02 Jul 2019 12:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13737.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13737.mp3</guid>
+	</item>
+
+	<item>
+		<title>Gonza Delgado tratando de resucitar desde Brasil</title>
+		<pubDate>Sun, 30 Jun 2019 12:00:00 GMT</pubDate>
+		<description>None</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13671.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13671.mp3</guid>
+	</item>
+
+</channel></rss>

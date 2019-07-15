@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/quientedice.rss" rel="self" type="application/rss+xml" />
+    <title>Quien te dice</title>
+    <link>https://delsol.uy/quientedice</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/Quien.png</url>
+        <title>Quien te dice</title>
+        <link>https://delsol.uy/quientedice</link>
+    </image>
+    <description>Quien te dice</description>
+    <pubDate>Fri, 12 Jul 2019 19:05:48 GMT</pubDate>
+
+	<item>
+		<title>Programa completo del 12/07/2019</title>
+		<pubDate>Fri, 12 Jul 2019 01:43:49 GMT</pubDate>
+		<description>Programa completo del 12/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13926.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13926.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del 11/07/2019</title>
+		<pubDate>Thu, 11 Jul 2019 02:01:37 GMT</pubDate>
+		<description>Programa completo del 11/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13905.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13905.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del 10/07/2019</title>
+		<pubDate>Wed, 10 Jul 2019 01:33:02 GMT</pubDate>
+		<description>Programa completo del 10/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13879.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13879.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del 09/07/2019</title>
+		<pubDate>Tue, 09 Jul 2019 01:39:23 GMT</pubDate>
+		<description>Programa completo del 09/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13858.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13858.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del 08/07/2019</title>
+		<pubDate>Mon, 08 Jul 2019 01:35:55 GMT</pubDate>
+		<description>Programa completo del 08/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13835.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13835.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

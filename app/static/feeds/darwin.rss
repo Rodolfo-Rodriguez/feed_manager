@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/darwin.rss" rel="self" type="application/rss+xml" />
+    <title>Darwin</title>
+    <link>https://delsol.uy/notoquennada/darwin</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/Darwin.png</url>
+        <title>Darwin</title>
+        <link>https://delsol.uy/notoquennada/darwin</link>
+    </image>
+    <description>Dawrin Desbocati</description>
+    <pubDate>Mon, 15 Jul 2019 16:15:04 GMT</pubDate>
+
+	<item>
+		<title>Darwin, Ricardo y Leonel, recrearon el café de Cosse y Villar</title>
+		<pubDate>Mon, 15 Jul 2019 11:11:42 GMT</pubDate>
+		<description>Además, Larrañaga perdió también la ronda de perdedores.</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13955.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13955.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Darwin y el desbande del Partido Socialista</title>
+		<pubDate>Fri, 12 Jul 2019 10:14:52 GMT</pubDate>
+		<description>Además, el lanzamiento de "Una propuesta cada tanto" y la crítica al padre omnipresente antes del Día del Padre.</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13921.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13921.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>El “sensitivity tour” de Carolina y los clientes del Eatalian Style</title>
+		<pubDate>Thu, 11 Jul 2019 10:39:12 GMT</pubDate>
+		<description>Darwin habló de la "Operación Cosse" del Ministerio del Interior.</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13898.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13898.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Las fotos de guerra de Robert Capa y la defensa de Darwin del título de Villar</title>
+		<pubDate>Tue, 09 Jul 2019 05:23:15 GMT</pubDate>
+		<description>El fotógrafo Leonardo Barizzoni empezó un ciclo sobre el contexto de algunas fotos icónicas y Darwin dijo que Graciela V</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13868.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13868.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

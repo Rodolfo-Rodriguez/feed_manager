@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/dobrich.rss" rel="self" type="application/rss+xml" />
+    <title>Dobrich</title>
+    <link>https://espectador.com/otroelefante/dobrich</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/dobrich.jpg</url>
+        <title>Dobrich</title>
+        <link>https://espectador.com/otroelefante/dobrich</link>
+    </image>
+    <description>Columna de Miguel Angel Dobrich en Otro Elefante</description>
+    <pubDate>Sun, 14 Jul 2019 15:42:45 GMT</pubDate>
+
+	<item>
+		<title>O Terno </title>
+		<pubDate>Thu, 11 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Migue reseña el cuarto disco de la banda paulistana: atrás/além</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2360.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2360.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Tercera temporada </title>
+		<pubDate>Tue, 09 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Con un récord de vistas, Migue Dobrich nos comenta sobre la última temporada de Stranger Things estrenada el pasado 4 de julio.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2306.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2306.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Capítulo II de “vacaciones de julio puertas adentro” </title>
+		<pubDate>Thu, 04 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Migue Dobrich te recomienda películas  para disfrutar en familia en este receso invernal. Encontrá estas joyitas de los años 80 y 90 a un clic de distancia.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2228.mp3" length="20924160" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2228.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Vacaciones de julio puertas adentro </title>
+		<pubDate>Tue, 02 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Migue Dobrich nos da una serie de recomendaciones disponibles en internet, para mirar con los más chicos en estas vacaciones de invierno.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2175.mp3" length="28065408" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2175.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Clarence Avant: El Padrino Negro </title>
+		<pubDate>Thu, 27 Jun 2019 12:00:00 GMT</pubDate>
+		<description>Migue Dobrich nos cuenta sobre el documental  que habla padrino de la música. Netflix rescata la historia de Clarence Avant, un genio de los negocios que ayudó a los personajes más influyentes y poderosos de los Estados Unidos como Michael Jackson, Barack Obama y Bill Clinton.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2096.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2096.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Rever series </title>
+		<pubDate>Wed, 26 Jun 2019 12:00:00 GMT</pubDate>
+		<description>Volver a las cosas que más disfrutamos, Migue Dobrich nos cuenta sobre los cambios de Netflix.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2068.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2068.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Chernobyl: un hito impensado  </title>
+		<pubDate>Thu, 20 Jun 2019 12:00:00 GMT</pubDate>
+		<description>Migue Dobrich y Maxi Guerra nos hablan del drama histórico, desarrollado en una mini serie de cinco capítulos por HBO en coproducción con Netflix.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/1964.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/1964.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>El futuro de los videojuegos </title>
+		<pubDate>Thu, 06 Jun 2019 12:00:00 GMT</pubDate>
+		<description>Miguel Ángel Dobrich habló de “Google Stadia” la nueva plataforma que se lanzará en noviembre y ofrecerá vía streaming la posibilidad de jugar desde cualquier dispositivo.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/1700.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/1700.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

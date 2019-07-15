@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/lavenganza.rss" rel="self" type="application/rss+xml" />
+    <title>La Venganza</title>
+    <link>https://venganzasdelpasado.com.ar</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/Venganza.png</url>
+        <title>La Venganza</title>
+        <link>https://venganzasdelpasado.com.ar</link>
+    </image>
+    <description>Alejandro Dolina. Patricio Barton. El trio sin nombre. Gillespi. Medianoche por AM 750.</description>
+    <pubDate>Fri, 12 Jul 2019 20:18:58 GMT</pubDate>
+
+	<item>
+		<title>Programa del 11/7/19</title>
+		<pubDate>Thu, 11 Jul 2019 02:26:08 GMT</pubDate>
+		<description>Programa del 11/7/19</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13930.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13930.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Señales que indican que tu pareja puede estar siéndote infiel</title>
+		<pubDate>Thu, 11 Jul 2019 02:03:17 GMT</pubDate>
+		<description>Dolina, Barton y Gillespi dieron consejos para percibir que tu pareja te está haciendo infiel.</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13929.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13929.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 10/7/19</title>
+		<pubDate>Wed, 10 Jul 2019 01:52:56 GMT</pubDate>
+		<description>Programa del 10/7/19</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13904.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13904.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Cosas que no hay que hacer en una boda</title>
+		<pubDate>Wed, 10 Jul 2019 01:38:49 GMT</pubDate>
+		<description>Dolina, Barton y Gillespi dieron indicaciones sobre las cosas que no se deben hacer en una boda.</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13903.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13903.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 9/7/19</title>
+		<pubDate>Tue, 09 Jul 2019 05:07:02 GMT</pubDate>
+		<description>Programa del 9/7/19</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13885.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13885.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Cómo prepararse para una cita con un ñato</title>
+		<pubDate>Tue, 09 Jul 2019 03:07:02 GMT</pubDate>
+		<description>Dolina, Barton y Gillespi dieron consejos para causar una buena impresión en una cita.</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13883.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13883.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 8/7/19</title>
+		<pubDate>Mon, 08 Jul 2019 05:45:30 GMT</pubDate>
+		<description>Programa del 8/7/19</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13870.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13870.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

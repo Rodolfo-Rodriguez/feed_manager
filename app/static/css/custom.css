@@ -1,0 +1,637 @@
+.navbar {
+  padding: 0.2rem;
+}
+
+.navbar .nav-link {
+  color: white;
+  padding: 0.2rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  padding: 0.5rem;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.nav-icon:link {
+  color: white;
+}
+
+.col-player{
+  position: relative;
+  width: 20%;
+  min-height: 1px;
+  padding-right: 5px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+}
+
+.col-grid{
+  position: relative;
+  width: 79.6%;
+  min-height: 1px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+}
+
+.col-info{
+  position: relative;
+  width: 59.4%;
+  min-height: 1px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+}
+
+.col-links{
+  position: relative;
+  width: 20%;
+  min-height: 1px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+}
+
+.col-grid-full{
+  display: flex;
+  flex: 0 0 100%;
+  min-height: 1px;
+  padding-right: 1px;
+  padding-left: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.col-grid-element{
+  position: relative;
+  width: 12.5%;
+  min-height: 1px;
+  padding-right: 3px;
+  padding-left: 3px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.col-grid-element-full{
+  flex: 0 0 10%;
+  min-height: 1px;
+  padding-right: 3px;
+  padding-left: 3px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.col-grid-album{
+  position: relative;
+  width: 20%;
+  min-height: 1px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.col-grid-list{
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 3px;
+  padding-left: 3px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.thumb-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-width: 300px;
+  max-height: 300px;
+  display: flex;
+}
+
+.thumb-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.thumb-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+  background-color: black;
+  border-radius: 10px;
+  display: flex;
+}
+
+.thumb-overlay-main-player {
+  opacity: 0;
+  transition: .3s ease;
+  margin: auto;
+}
+
+.thumb-overlay-play {
+  opacity: 0;
+  transition: .3s ease;
+  margin: auto;
+}
+
+.thumb-overlay-edit {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  opacity: 0;
+  transition: .3s ease;
+}
+
+.thumb-overlay-stars {
+  position: absolute;
+  bottom: 12px;
+  left: 10px;
+  opacity: 0;
+  transition: .3s ease;
+  font-size: 10px;
+}
+
+.thumb-overlay-fav {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  opacity: 0;
+  transition: .3s ease;
+  font-size: 25px;
+}
+
+.thumb-overlay-bookmark {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  opacity: 0;
+  transition: .3s ease;
+  font-size: 25px;
+}
+
+.thumb-overlay-delete {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  opacity: 0;
+  transition: .3s ease;
+}
+
+.thumb-overlay-preset {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 27px;
+  opacity: 1;
+  transition: .3s ease;
+  background-color: orange;
+  margin: auto;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.thumb-overlay-link {
+  opacity: 0;
+  transition: .3s ease;
+  background-color: black;
+  margin: auto;
+  display: flex;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.thumb-overlay-link-radio {
+  opacity: 0;
+  transition: .3s ease;
+  background-color: black;
+  margin: auto;
+  display: flex;
+  text-align: center;
+}
+
+.thumb-container:hover .thumb-overlay {
+  opacity: 0.8;
+}
+
+.thumb-container:hover .thumb-overlay-main-player {
+  opacity: 0.8;
+}
+
+.thumb-container:hover .thumb-overlay-play {
+  opacity: 0.8;
+}
+
+.thumb-container:hover .thumb-overlay-link {
+  opacity: 1;
+}
+
+.thumb-container:hover .thumb-overlay-edit {
+  opacity: 0.8;
+}
+
+.thumb-container:hover .thumb-overlay-delete {
+  opacity: 0.8;
+}
+
+.thumb-container:hover .thumb-overlay-stars {
+  opacity: 0.8;
+}
+
+.thumb-container:hover .thumb-overlay-fav {
+  opacity: 0.8;
+}
+
+.thumb-container:hover .thumb-overlay-bookmark {
+  opacity: 0.8;
+}
+
+.thumb-icon-edit {
+  color: white;
+  font-size: 15px;
+}
+
+.thumb-icon-delete {
+  color: white;
+  font-size: 15px;
+}
+
+.thumb-icon-play {
+  color: white;
+  font-size: 40px;
+}
+
+.thumb-link-text {
+  color: white;
+  font-size: 16px;
+  margin: auto;
+}
+
+.thumb-link-text:link {
+  text-decoration: none;
+}
+
+.thumb-icon-main-player {
+  color: white;
+  font-size: 80px;
+}
+
+.fa-play:hover {
+  color: orange;
+}
+
+.fa-stop:hover {
+  color: orange;
+}
+
+.fa-pause:hover {
+  color: orange;
+}
+
+.fa-forward:hover {
+  color: orange;
+}
+
+.fa-backward:hover {
+  color: orange;
+}
+
+.fa-play-circle:hover {
+  color: orange;
+}
+
+.fa-stop-circle:hover {
+  color: orange;
+}
+
+.fa-pause-circle:hover {
+  color: orange;
+}
+
+.fa-edit:hover {
+  color: orange;
+}
+
+.fa-trash-alt:hover {
+  color: orange;
+}
+
+.fa-star:hover {
+  color: orange;
+}
+
+.fa-bookmark:hover {
+  color: orange;
+}
+
+.fa-download:hover {
+  color: lightgreen;
+}
+
+.fa-save:hover {
+  color: orange;
+}
+
+.fa-copy:hover {
+  color: orange;
+}
+
+.fa-twitter:hover {
+  color: skyblue;
+}
+.fa-instagram:hover {
+  color: orange;
+}
+.fa-youtube:hover {
+  color: red;
+}
+.fa-spotify:hover {
+  color: lightgreen;
+}
+
+
+.thumb-link-text:hover {
+  color: orange;
+}
+
+.song-list-col{
+  display: flex;
+}
+
+.song-play{
+  text-align: left;
+  flex: 0 0 30px;
+}
+.song-track{
+  text-align: left;
+  flex: 0 0 30px;
+  color: gray;
+}
+.song-text{
+  text-align: left;
+  flex: 1 1 auto;
+}
+.song-text a {
+  text-decoration: none;
+}
+.song-time{
+  text-align: right;
+  flex: 0 0 80px;
+  color: gray;
+}
+.song-tag{
+  text-align: right;
+  flex: 0 0 30px;
+}
+.song-title{
+  text-align: left;
+  flex: 1 1 auto;
+}
+.song-artist{
+  text-align: right;
+  flex: 1 1 auto;
+  color: gray;
+}
+.text-playing{
+  color: lightgreen;
+}
+.text-playing a {
+  color: lightgreen;
+}
+
+.episode-list-col{
+  display: flex;
+}
+.episode-track{
+  text-align: left;
+  flex: 0 0 40px;
+  color: lightgreen;
+}
+
+.text-down{
+  color: lightgreen;
+}
+.text-down a {
+  color: lightgreen;
+}
+
+.header-text{
+  text-align: left;
+  flex: 1 1 auto;
+  padding-left: 10px;
+}
+
+.header-icon{
+  text-align: center;
+  flex: 0 0 30px;
+}
+.create-feed-icon{
+  text-align: center;
+  flex: 0 0 30px;
+}
+.sync-icon{
+  text-align: center;
+  flex: 0 0 30px;
+}
+.social-icon{
+  text-align: center;
+  flex: 0 0 40px;
+  padding-left: 10px;
+}
+
+.episode-date{
+  text-align: center;
+  flex: 0 0 80px;
+}
+.episode-title{
+  text-align: left;
+  padding-left: 10px;
+  flex: 0 0 170px;
+}
+.episode-desc{
+  text-align: left;
+  padding-left: 10px;
+  flex: 1 1 auto;
+}
+.episode-length{
+  text-align: center;
+  flex: 0 0 70px;
+}
+
+.episode-icon{
+  text-align: center;
+  flex: 0 0 25px;
+}
+
+.episode-down-icon{
+  text-align: center;
+  flex: 0 0 25px;
+  color: orange;
+}
+
+.player-controls{
+  display: flex;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.player-left-control{
+  flex: 0 0 30%;
+  text-align: right;
+}
+.player-center-control{
+  flex: 1 1 auto;
+}
+
+.player-right-control{
+  flex: 0 0 30%;
+  text-align: left;
+}
+
+.player-mid-control{
+  flex: 1 1 auto;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.player-mid-control a:hover {
+  color: lightgreen;
+  text-decoration: none;
+}
+
+.card-subtitle{
+  padding-right: 1px;
+  padding-left: 1px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.card-header a {
+  text-decoration: none;
+}
+
+.card-header a:hover {
+  color: orange;
+}
+
+.card-title a {
+  text-decoration: none;
+}
+
+.card-title a:hover {
+  color: orange;
+}
+
+.text-muted a {
+  text-decoration: none;
+  color: gray;
+}
+
+.text-muted a:hover {
+  color: orange;
+}
+
+.navbar-img {
+  width: 30px;
+  height: 30px;
+  opacity: 1;
+  border-radius: 5px;
+  padding: 0;
+}
+
+.navbar-img:hover {
+  opacity: 1;
+}
+
+.navbar-play-img {
+  width: 35px;
+  height: 35px;
+  opacity: 1;
+  border-radius: 5px;
+  padding: 0;
+}
+
+.navbar-custpadd {
+  padding: 0 0 0 0;
+}
+
+.info-list-items{
+  display: flex;
+}
+.info-title{
+  text-align: left;
+  flex: 1 1 12%;
+  color: grey;
+  padding-right: 15px;
+  text-align: right;
+}
+.info-text{
+  text-align: left;
+  flex: 1 1 85%;
+}
+
+.info-prog{
+  display: flex;
+}
+
+.info-prog-date_time{
+  text-align: right;
+  flex: 1 1 15%;
+  color: grey;
+  padding-right: 10px;
+}
+
+.info-prog-name{
+  text-align: left;
+  flex: 1 1 30%;
+  color: white;
+}
+
+.info-prog-description{
+  text-align: left;
+  flex: 1 1 43%;
+  color: grey;
+}
+
+.info-prog-tag{
+  text-align: center;
+  flex: 1 1 4%;
+  color: white;
+}
+
+.prog-live{
+  color: lightgreen;
+}
+
+
+#container_download {
+  margin: 20px;
+  width: 97%;
+  height: 8px;
+  position: relative;
+}

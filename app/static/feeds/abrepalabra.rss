@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/abrepalabra.rss" rel="self" type="application/rss+xml" />
+    <title>Abrepalabra</title>
+    <link>https://www.oceano.uy/abrepalabra</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/abrepalabra.jpg</url>
+        <title>Abrepalabra</title>
+        <link>https://www.oceano.uy/abrepalabra</link>
+    </image>
+    <description></description>
+    <pubDate>Sun, 14 Jul 2019 15:37:15 GMT</pubDate>
+
+	<item>
+		<title>Abrepalabra 12/07/19</title>
+		<pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Programa completo emitido el día viernes doce de julio de 2019.</description>
+		<enclosure url="http://audios.oceanofm.com/programas/Abrepalabra/19-07-12completo.mp3" length="75278945" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/Abrepalabra/19-07-12completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Abrepalabra 11/07/19</title>
+		<pubDate>Thu, 11 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Programa completo emitido el día once de julio de 2019.</description>
+		<enclosure url="http://audios.oceanofm.com/programas/Abrepalabra/19-07-11completo.mp3" length="163108679" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/Abrepalabra/19-07-11completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Abrepalabra 08/07/19</title>
+		<pubDate>Mon, 08 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Programa completo emitido el día ocho de julio de 2019.</description>
+		<enclosure url="http://audios.oceanofm.com/programas/Abrepalabra/19-07-08ProgramaCompleto.mp3" length="88676626" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/Abrepalabra/19-07-08ProgramaCompleto.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

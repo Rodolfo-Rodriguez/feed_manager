@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/moncho.rss" rel="self" type="application/rss+xml" />
+    <title>Moncho</title>
+    <link>https://espectador.com/otroelefante/moncho</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/moncho.jpg</url>
+        <title>Moncho</title>
+        <link>https://espectador.com/otroelefante/moncho</link>
+    </image>
+    <description></description>
+    <pubDate>Fri, 12 Jul 2019 19:07:10 GMT</pubDate>
+
+	<item>
+		<title>TED Vaticano  </title>
+		<pubDate>Fri, 12 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Análisis FODA, coaching y mentoreo del Moncho a la Iglesia católica, para que se aggiorne los tiempos que corren.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2387.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2387.mp3</guid>
+                <itunes:duration>34:20</itunes:duration>
+	</item>
+
+	<item>
+		<title>Ey!. El manifiesto no se termina </title>
+		<pubDate>Mon, 08 Jul 2019 12:00:00 GMT</pubDate>
+		<description>El Moncho continúa agregando puntos a su manifiesto y sigue sin columna, pero esta vez explica sus razones.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2288.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2288.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>¿Se puede demostrar la existencia de Dios? </title>
+		<pubDate>Fri, 28 Jun 2019 12:00:00 GMT</pubDate>
+		<description>En el espacio de “No te hagas el ateo”, el Moncho se puso ontológico.Nos habló de creencias, teorías, agujeros negros y las refutaciones de esta hipótesis.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2124.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2124.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Las bicis festejan sus 15 en la Facultad de Ingeniería </title>
+		<pubDate>Wed, 29 May 2019 12:00:00 GMT</pubDate>
+		<description>Adrián Santos, del programa Unibici, conversó junto al Moncho del evento que se realizará el sábado en la Fing. Una actividad que será gratuita y contará con la participación de varias empresas y colectivos vinculados a la bicicleta y la movilidad sostenible.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/1537.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/1537.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

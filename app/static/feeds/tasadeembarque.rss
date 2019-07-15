@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/tasadeembarque.rss" rel="self" type="application/rss+xml" />
+    <title>Tasa de Embarque</title>
+    <link>https://delsol.uy/quientedice/tasaembarque</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/TasaDeEmarque.png</url>
+        <title>Tasa de Embarque</title>
+        <link>https://delsol.uy/quientedice/tasaembarque</link>
+    </image>
+    <description></description>
+    <pubDate>Fri, 12 Jul 2019 16:40:12 GMT</pubDate>
+
+	<item>
+		<title>Río, me gustás </title>
+		<pubDate>Wed, 10 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Columna de viajes sobre Río de Janeiro por Alejandra Martínez.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13884.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13884.mp3</guid>
+	</item>
+
+	<item>
+		<title>París y sus clichés </title>
+		<pubDate>Wed, 29 May 2019 12:00:00 GMT</pubDate>
+		<description> </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13053.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13053.mp3</guid>
+	</item>
+
+	<item>
+		<title>La Ruta de los Corales </title>
+		<pubDate>Wed, 17 Apr 2019 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez nos llevó a la Ruta de los Corales en el Caribe Alagoano, sobre el nordeste de Brasil.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/12245.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/12245.mp3</guid>
+	</item>
+
+	<item>
+		<title>Norte argentino </title>
+		<pubDate>Wed, 03 Apr 2019 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez habló el norte argentino como destino turístico, abarcando también a regiones cercanas de los países vecinos.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/11948.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/11948.mp3</guid>
+	</item>
+
+	<item>
+		<title>Santiago, un destino en sí mismo </title>
+		<pubDate>Wed, 27 Feb 2019 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez habló sobre Santiago de Chile, que dejó de ser un destino alternativo a los grandes paisajes de ese país.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/11224.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/11224.mp3</guid>
+	</item>
+
+	<item>
+		<title>Riviera Maya, el Caribe más diverso </title>
+		<pubDate>Wed, 13 Feb 2019 12:00:00 GMT</pubDate>
+		<description>Columna de Alejandra Martínez sobre la Riviera Maya, en México, como destino de viaje. </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/10938.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/10938.mp3</guid>
+	</item>
+
+	<item>
+		<title>Una India diferente para cada uno </title>
+		<pubDate>Wed, 12 Dec 2018 12:00:00 GMT</pubDate>
+		<description>Columna de Alejandra Martínez sobre India como destino turístico para múltiples públicos. </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/10313.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/10313.mp3</guid>
+	</item>
+
+	<item>
+		<title>Marruecos, exotismo cercano </title>
+		<pubDate>Wed, 21 Nov 2018 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez habló de Marruecos.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/9960.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/9960.mp3</guid>
+	</item>
+
+	<item>
+		<title>Sevilla, Córdoba y Granada </title>
+		<pubDate>Wed, 24 Oct 2018 12:00:00 GMT</pubDate>
+		<description>Los destinos que presentó Alejandra Martínez esta vez fueron en el sur español: Sevilla, Córdoba y Granada.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/9467.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/9467.mp3</guid>
+	</item>
+
+	<item>
+		<title>Estambul, el beso entre Asia y Europa </title>
+		<pubDate>Wed, 12 Sep 2018 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez y una columna sobre esta ciudad de Turquía. </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/8686.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/8686.mp3</guid>
+	</item>
+
+	<item>
+		<title>Croacia, una joya de moda en el Adriático </title>
+		<pubDate>Wed, 15 Aug 2018 12:00:00 GMT</pubDate>
+		<description>Columna de viajes a cargo de Alejandra Martínez sobre Croacia, un destino de moda.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/8141.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/8141.mp3</guid>
+	</item>
+
+	<item>
+		<title>Dubai y Abu Dabi </title>
+		<pubDate>Wed, 06 Jun 2018 12:00:00 GMT</pubDate>
+		<description>Columna de Alejandra Martínez sobre dos grandes destinos turísticos de Medio Oriente.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/6901.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/6901.mp3</guid>
+	</item>
+
+	<item>
+		<title>Cuzco y Machu Picchu </title>
+		<pubDate>Wed, 11 Apr 2018 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez habló sobre cómo es viajar a dos de los destinos clave de Perú.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/5875.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/5875.mp3</guid>
+	</item>
+
+	<item>
+		<title>Todos los posibles Shanghai </title>
+		<pubDate>Wed, 14 Mar 2018 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez habló de una de las ciudades más importantes de China, Shanghai. </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/5361.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/5361.mp3</guid>
+	</item>
+
+	<item>
+		<title>Trancoso, Espelho y Caraíva: trilogía bahiana </title>
+		<pubDate>Tue, 27 Feb 2018 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez habló de tres destinos en el estado brasileño de Bahía.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/5093.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/5093.mp3</guid>
+	</item>
+
+	<item>
+		<title>Disfrutando de Madrid </title>
+		<pubDate>Wed, 14 Feb 2018 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez habló de la capital española como destino turístico para 2018.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/4854.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/4854.mp3</guid>
+	</item>
+
+	<item>
+		<title>Apulia, la Italia griega </title>
+		<pubDate>Thu, 15 Jun 2017 12:00:00 GMT</pubDate>
+		<description>Viajamos a Apulia, el </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/1673.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/1673.mp3</guid>
+	</item>
+
+	<item>
+		<title>Florencia y Venecia, gracias por existir </title>
+		<pubDate>Thu, 08 Jun 2017 12:00:00 GMT</pubDate>
+		<description>Seguimos recorriendo Italia y esta semana viajamos a Florencia y Venecia. Presentado por Jorge Martínez</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/1590.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/1590.mp3</guid>
+	</item>
+
+	<item>
+		<title>Toscana, arte de vivir </title>
+		<pubDate>Thu, 01 Jun 2017 12:00:00 GMT</pubDate>
+		<description>Viajamos a la región italiana de la Toscana. Presentado por Jorge Martínez. </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/1507.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/1507.mp3</guid>
+	</item>
+
+	<item>
+		<title>Roma, ciudad eterna </title>
+		<pubDate>Thu, 25 May 2017 12:00:00 GMT</pubDate>
+		<description>Conocemos la inigualable capital italiana: Roma, la ciudad eterna, de la mano de Jorge Martínez. </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/1407.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/1407.mp3</guid>
+	</item>
+
+	<item>
+		<title>Fernando de Noronha </title>
+		<pubDate>Thu, 11 May 2017 12:00:00 GMT</pubDate>
+		<description>Viajamos al paradisíaco archipiélago brasileño de Fernando de Noronha. Presentado por Jorge Martínez</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/1225.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/1225.mp3</guid>
+	</item>
+
+	<item>
+		<title>Hawái </title>
+		<pubDate>Wed, 03 May 2017 12:00:00 GMT</pubDate>
+		<description>Viajamos a Hawái y Polinesia del norte. Presentado por Jorge Martínez</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/1133.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/1133.mp3</guid>
+	</item>
+
+	<item>
+		<title>Silverado Trail: Napa & Sonoma, CA </title>
+		<pubDate>Thu, 27 Apr 2017 12:00:00 GMT</pubDate>
+		<description>Recorremos una pintoresca ruta californiana: Silverado Trail, pasando por Napa, Sonoma, etc. Presentado por Jorge Martínez. </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/1073.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/1073.mp3</guid>
+	</item>
+
+	<item>
+		<title>San Francisco, la libre </title>
+		<pubDate>Thu, 20 Apr 2017 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez nos presentó un nuevo destino: San Francisco, joya del oeste de Estados Unidos. Presentado por Jorge Martínez</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/989.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/989.mp3</guid>
+	</item>
+
+	<item>
+		<title>Chicago </title>
+		<pubDate>Thu, 06 Apr 2017 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez nos presentó a Chicago, la joya olvidada sobre “el tercer mar”</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/825.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/825.mp3</guid>
+	</item>
+
+	<item>
+		<title>Los Ángeles </title>
+		<pubDate>Thu, 30 Mar 2017 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez nos propuso razones para largar todo e ir a Los Ángeles</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/738.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/738.mp3</guid>
+	</item>
+
+	<item>
+		<title>Nueva York para principiantes </title>
+		<pubDate>Thu, 23 Mar 2017 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez presentó a la capital del mundo: Nueva York</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/639.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/639.mp3</guid>
+	</item>
+
+	<item>
+		<title>Salar de Uyuni </title>
+		<pubDate>Thu, 16 Mar 2017 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez nos llevó al Salar de Uyuni, en Bolivia</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/570.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/570.mp3</guid>
+	</item>
+
+	<item>
+		<title>Desierto de Atacama </title>
+		<pubDate>Thu, 09 Mar 2017 12:00:00 GMT</pubDate>
+		<description>Escuchar el silencio: Desierto de Atacama. Alejandra Martínez nos presentó un nuevo destino</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/462.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/462.mp3</guid>
+	</item>
+
+	<item>
+		<title>Patagonia made in Argentina </title>
+		<pubDate>Sat, 04 Mar 2017 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez presentó un nuevo destino: la Patagonia argentina</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/405.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/405.mp3</guid>
+	</item>
+
+	<item>
+		<title>Torres del Paine </title>
+		<pubDate>Thu, 23 Feb 2017 12:00:00 GMT</pubDate>
+		<description>Con Alejandra Martínez viajamos a Torres del Paine (Patagonia chilena), considerada la octava maravilla natural del mundo</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/279.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/279.mp3</guid>
+	</item>
+
+	<item>
+		<title>Barra da Tijuca: un balneario dentro de Río </title>
+		<pubDate>Fri, 17 Feb 2017 12:00:00 GMT</pubDate>
+		<description>Alejandra Martínez habló sobre un destino alternativo a Río, pero muy cerquita de esa ciudad: Barra da Tijuca</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/207.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/207.mp3</guid>
+	</item>
+
+	<item>
+		<title>Lima </title>
+		<pubDate>Thu, 09 Feb 2017 12:00:00 GMT</pubDate>
+		<description>Sugerencias para conocer la capital de Perú.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/257.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/257.mp3</guid>
+	</item>
+
+</channel></rss>

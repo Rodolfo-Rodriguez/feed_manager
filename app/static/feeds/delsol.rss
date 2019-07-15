@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/delsol.rss" rel="self" type="application/rss+xml" />
+    <title>Del Sol</title>
+    <link>https://delsol.uy</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/delsol.jpg</url>
+        <title>Del Sol</title>
+        <link>https://delsol.uy</link>
+    </image>
+    <description>FM del Sol</description>
+    <pubDate>Fri, 12 Jul 2019 18:36:51 GMT</pubDate>
+
+	<item>
+		<title>Darwin y el desbande del Partido Socialista</title>
+		<pubDate>Fri, 12 Jul 2019 10:14:52 GMT</pubDate>
+		<description>Además, el lanzamiento de "Una propuesta cada tanto" y la crítica al padre omnipresente antes del Día del Padre.</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13921.mp3" length="10000000" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13921.mp3</guid>
+                <itunes:duration>1:01</itunes:duration>
+	</item>
+
+	<item>
+		<title>Cartelería política: quién paga las multas y la posibilidad de prohibición</title>
+		<pubDate>Fri, 12 Jul 2019 01:46:36 GMT</pubDate>
+		<description>Informe sobre las multas que la Intendencia aplicó a los partidos políticos por cartelería en infracción.</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13927.mp3" length="15000000" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13927.mp3</guid>
+                <itunes:duration>3:45</itunes:duration>
+	</item>
+
+</channel></rss>
