@@ -10,7 +10,25 @@
         <link>https://espectador.com/otroelefante/sergiopena</link>
     </image>
     <description></description>
-    <pubDate>Sun, 14 Jul 2019 15:42:41 GMT</pubDate>
+    <pubDate>Thu, 18 Jul 2019 21:40:52 GMT</pubDate>
+
+	<item>
+		<title>Las fuerzas amadas </title>
+		<pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Con una sensibilidad poética, Sergio Pena nos cuenta cómo se desarrollan estas fuerzas amadas y qué tareas realizan. Además, descubrimos la película escondida en el último partido de Filmball</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2496.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2496.mp3</guid>
+                <itunes:duration>24:44</itunes:duration>
+	</item>
+
+	<item>
+		<title>La ambición humana en entredicho </title>
+		<pubDate>Tue, 16 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Basándose en un manual de astronomía, Pablo Aguirrezábal nos habla del deseo de pisar la luna y su cara oculta que sólo un loco las pondría en entredicho.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2446.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2446.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
 
 	<item>
 		<title>Plataforma de Screaming volumen II </title>

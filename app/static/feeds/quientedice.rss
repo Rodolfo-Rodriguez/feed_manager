@@ -10,48 +10,84 @@
         <link>https://delsol.uy/quientedice</link>
     </image>
     <description>Quien te dice</description>
-    <pubDate>Fri, 12 Jul 2019 19:05:48 GMT</pubDate>
+    <pubDate>Thu, 18 Jul 2019 21:37:38 GMT</pubDate>
 
 	<item>
-		<title>Programa completo del 12/07/2019</title>
+		<title>Jue - 18/07/2019</title>
+		<pubDate>Thu, 18 Jul 2019 01:48:48 GMT</pubDate>
+		<description>Programa Completo</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/14032.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/14032.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Mie - 17/07/2019</title>
+		<pubDate>Wed, 17 Jul 2019 01:49:55 GMT</pubDate>
+		<description>Programa Completo</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/14012.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/14012.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Mar - 16/07/2019</title>
+		<pubDate>Tue, 16 Jul 2019 01:55:35 GMT</pubDate>
+		<description>Programa Completo</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13990.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13990.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Lun - 15/07/2019</title>
+		<pubDate>Mon, 15 Jul 2019 01:38:19 GMT</pubDate>
+		<description>Programa Completo</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13957.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13957.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Vie - 12/07/2019</title>
 		<pubDate>Fri, 12 Jul 2019 01:43:49 GMT</pubDate>
-		<description>Programa completo del 12/07/2019</description>
+		<description>Programa Completo</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13926.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13926.mp3</guid>
                 <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
-		<title>Programa completo del 11/07/2019</title>
+		<title>Jue - 11/07/2019</title>
 		<pubDate>Thu, 11 Jul 2019 02:01:37 GMT</pubDate>
-		<description>Programa completo del 11/07/2019</description>
+		<description>Programa Completo</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13905.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13905.mp3</guid>
                 <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
-		<title>Programa completo del 10/07/2019</title>
+		<title>Mie - 10/07/2019</title>
 		<pubDate>Wed, 10 Jul 2019 01:33:02 GMT</pubDate>
-		<description>Programa completo del 10/07/2019</description>
+		<description>Programa Completo</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13879.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13879.mp3</guid>
                 <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
-		<title>Programa completo del 09/07/2019</title>
+		<title>Mar - 09/07/2019</title>
 		<pubDate>Tue, 09 Jul 2019 01:39:23 GMT</pubDate>
-		<description>Programa completo del 09/07/2019</description>
+		<description>Programa Completo</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13858.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13858.mp3</guid>
                 <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
-		<title>Programa completo del 08/07/2019</title>
+		<title>Lun - 08/07/2019</title>
 		<pubDate>Mon, 08 Jul 2019 01:35:55 GMT</pubDate>
-		<description>Programa completo del 08/07/2019</description>
+		<description>Programa Completo</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13835.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13835.mp3</guid>
                 <itunes:duration>0</itunes:duration>

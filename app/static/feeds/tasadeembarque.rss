@@ -10,7 +10,7 @@
         <link>https://delsol.uy/quientedice/tasaembarque</link>
     </image>
     <description></description>
-    <pubDate>Fri, 12 Jul 2019 16:40:12 GMT</pubDate>
+    <pubDate>Mon, 15 Jul 2019 17:01:25 GMT</pubDate>
 
 	<item>
 		<title>Río, me gustás </title>
@@ -18,6 +18,7 @@
 		<description>Columna de viajes sobre Río de Janeiro por Alejandra Martínez.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/13884.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/13884.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -26,6 +27,7 @@
 		<description> </description>
 		<enclosure url="https://cdn.dl.uy//solmp3/13053.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/13053.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -34,6 +36,7 @@
 		<description>Alejandra Martínez nos llevó a la Ruta de los Corales en el Caribe Alagoano, sobre el nordeste de Brasil.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/12245.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/12245.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -42,6 +45,7 @@
 		<description>Alejandra Martínez habló el norte argentino como destino turístico, abarcando también a regiones cercanas de los países vecinos.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/11948.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/11948.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -50,6 +54,7 @@
 		<description>Alejandra Martínez habló sobre Santiago de Chile, que dejó de ser un destino alternativo a los grandes paisajes de ese país.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/11224.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/11224.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -58,6 +63,7 @@
 		<description>Columna de Alejandra Martínez sobre la Riviera Maya, en México, como destino de viaje. </description>
 		<enclosure url="https://cdn.dl.uy//solmp3/10938.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/10938.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -66,6 +72,7 @@
 		<description>Columna de Alejandra Martínez sobre India como destino turístico para múltiples públicos. </description>
 		<enclosure url="https://cdn.dl.uy//solmp3/10313.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/10313.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -74,6 +81,7 @@
 		<description>Alejandra Martínez habló de Marruecos.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/9960.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/9960.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -82,6 +90,7 @@
 		<description>Los destinos que presentó Alejandra Martínez esta vez fueron en el sur español: Sevilla, Córdoba y Granada.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/9467.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/9467.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -90,6 +99,7 @@
 		<description>Alejandra Martínez y una columna sobre esta ciudad de Turquía. </description>
 		<enclosure url="https://cdn.dl.uy//solmp3/8686.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/8686.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -98,6 +108,7 @@
 		<description>Columna de viajes a cargo de Alejandra Martínez sobre Croacia, un destino de moda.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/8141.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/8141.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -106,6 +117,7 @@
 		<description>Columna de Alejandra Martínez sobre dos grandes destinos turísticos de Medio Oriente.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/6901.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/6901.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -114,6 +126,7 @@
 		<description>Alejandra Martínez habló sobre cómo es viajar a dos de los destinos clave de Perú.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/5875.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/5875.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -122,6 +135,7 @@
 		<description>Alejandra Martínez habló de una de las ciudades más importantes de China, Shanghai. </description>
 		<enclosure url="https://cdn.dl.uy//solmp3/5361.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/5361.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -130,6 +144,7 @@
 		<description>Alejandra Martínez habló de tres destinos en el estado brasileño de Bahía.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/5093.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/5093.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -138,6 +153,7 @@
 		<description>Alejandra Martínez habló de la capital española como destino turístico para 2018.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/4854.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/4854.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -146,6 +162,7 @@
 		<description>Viajamos a Apulia, el </description>
 		<enclosure url="https://cdn.dl.uy//solmp3/1673.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/1673.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -154,6 +171,7 @@
 		<description>Seguimos recorriendo Italia y esta semana viajamos a Florencia y Venecia. Presentado por Jorge Martínez</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/1590.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/1590.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -162,6 +180,7 @@
 		<description>Viajamos a la región italiana de la Toscana. Presentado por Jorge Martínez. </description>
 		<enclosure url="https://cdn.dl.uy//solmp3/1507.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/1507.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -170,6 +189,7 @@
 		<description>Conocemos la inigualable capital italiana: Roma, la ciudad eterna, de la mano de Jorge Martínez. </description>
 		<enclosure url="https://cdn.dl.uy//solmp3/1407.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/1407.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -178,6 +198,7 @@
 		<description>Viajamos al paradisíaco archipiélago brasileño de Fernando de Noronha. Presentado por Jorge Martínez</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/1225.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/1225.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -186,14 +207,16 @@
 		<description>Viajamos a Hawái y Polinesia del norte. Presentado por Jorge Martínez</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/1133.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/1133.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
-		<title>Silverado Trail: Napa & Sonoma, CA </title>
+		<title>Silverado Trail: Napa and Sonoma, CA </title>
 		<pubDate>Thu, 27 Apr 2017 12:00:00 GMT</pubDate>
 		<description>Recorremos una pintoresca ruta californiana: Silverado Trail, pasando por Napa, Sonoma, etc. Presentado por Jorge Martínez. </description>
 		<enclosure url="https://cdn.dl.uy//solmp3/1073.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/1073.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -202,6 +225,7 @@
 		<description>Alejandra Martínez nos presentó un nuevo destino: San Francisco, joya del oeste de Estados Unidos. Presentado por Jorge Martínez</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/989.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/989.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -210,6 +234,7 @@
 		<description>Alejandra Martínez nos presentó a Chicago, la joya olvidada sobre “el tercer mar”</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/825.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/825.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -218,6 +243,7 @@
 		<description>Alejandra Martínez nos propuso razones para largar todo e ir a Los Ángeles</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/738.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/738.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -226,6 +252,7 @@
 		<description>Alejandra Martínez presentó a la capital del mundo: Nueva York</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/639.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/639.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -234,6 +261,7 @@
 		<description>Alejandra Martínez nos llevó al Salar de Uyuni, en Bolivia</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/570.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/570.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -242,6 +270,7 @@
 		<description>Escuchar el silencio: Desierto de Atacama. Alejandra Martínez nos presentó un nuevo destino</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/462.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/462.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -250,6 +279,7 @@
 		<description>Alejandra Martínez presentó un nuevo destino: la Patagonia argentina</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/405.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/405.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -258,6 +288,7 @@
 		<description>Con Alejandra Martínez viajamos a Torres del Paine (Patagonia chilena), considerada la octava maravilla natural del mundo</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/279.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/279.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -266,6 +297,7 @@
 		<description>Alejandra Martínez habló sobre un destino alternativo a Río, pero muy cerquita de esa ciudad: Barra da Tijuca</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/207.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/207.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -274,6 +306,7 @@
 		<description>Sugerencias para conocer la capital de Perú.</description>
 		<enclosure url="https://cdn.dl.uy//solmp3/257.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy//solmp3/257.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 </channel></rss>

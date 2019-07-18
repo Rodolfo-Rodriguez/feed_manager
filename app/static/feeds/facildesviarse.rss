@@ -3,14 +3,50 @@
   <channel>
     <atom:link href="http://feeds.the2rods.com/static/feeds/facildesviarse.rss" rel="self" type="application/rss+xml" />
     <title>Facil Desviarse</title>
-    <link>http://www.the2rods.com</link>
+    <link>https://delsol.uy/facildesviarse</link>
     <image>
     	<url>http://feeds.the2rods.com/static/images/podcasts/Facil.png</url>
         <title>Facil Desviarse</title>
-        <link>http://www.the2rods.com</link>
+        <link>https://delsol.uy/facildesviarse</link>
     </image>
     <description>Facil Desviarse</description>
-    <pubDate>Fri, 12 Jul 2019 00:23:03 GMT</pubDate>
+    <pubDate>Thu, 18 Jul 2019 21:37:58 GMT</pubDate>
+
+	<item>
+		<title>Programa del 17/07/2019</title>
+		<pubDate>Wed, 17 Jul 2019 03:44:50 GMT</pubDate>
+		<description>Programa del 17/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/14040.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/14040.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 16/07/2019</title>
+		<pubDate>Tue, 16 Jul 2019 05:18:39 GMT</pubDate>
+		<description>Programa del 16/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/14021.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/14021.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 15/07/2019</title>
+		<pubDate>Mon, 15 Jul 2019 05:18:51 GMT</pubDate>
+		<description>Programa del 15/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13998.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13998.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa del 12/07/2019</title>
+		<pubDate>Fri, 12 Jul 2019 05:19:07 GMT</pubDate>
+		<description>Programa del 12/07/2019</description>
+		<enclosure url="https://cdn.dl.uy/solmp3/13973.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy/solmp3/13973.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
 
 	<item>
 		<title>Programa del 11/07/2019</title>
@@ -18,6 +54,7 @@
 		<description>Programa del 11/07/2019</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13919.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13919.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -26,6 +63,7 @@
 		<description>Programa del 10/07/2019</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13895.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13895.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -34,6 +72,7 @@
 		<description>Programa del 09/07/2019</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13872.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13872.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -42,14 +81,16 @@
 		<description>Programa del 08/07/2019</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13851.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13851.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
 		<title>Programa del 05/07/2019</title>
 		<pubDate>Fri, 05 Jul 2019 07:19:11 GMT</pubDate>
 		<description>Programa del 05/07/2019</description>
-		<enclosure url="https://cdn.dl.uy/solmp3/13813.mp3" length="0" type="audio/mpeg"/>
+		<enclosure url="https://cdn.dl.uy/solmp3/13813.mp3" length="74539072" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13813.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -58,6 +99,7 @@
 		<description>Programa del 04/07/2019</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13791.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13791.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -66,6 +108,7 @@
 		<description>Programa del 03/07/2019</description>
 		<enclosure url="https://cdn.dl.uy/solmp3/13762.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.dl.uy/solmp3/13762.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 </channel></rss>

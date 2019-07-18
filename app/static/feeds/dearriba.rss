@@ -10,10 +10,37 @@
         <link>https://www.oceano.uy/dearribaunrayo</link>
     </image>
     <description>De Arriba un Rayo. Un programa de Juguete.</description>
-    <pubDate>Sun, 14 Jul 2019 15:37:49 GMT</pubDate>
+    <pubDate>Wed, 17 Jul 2019 22:27:06 GMT</pubDate>
 
 	<item>
-		<title>De Arriba Un Rayo 12/07/19</title>
+		<title>De Arriba Un Rayo 17/07/19</title>
+		<pubDate>Wed, 17 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-17completo.mp3" length="219048545" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-17completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Mar 16/07/19</title>
+		<pubDate>Tue, 16 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-16completo.mp3" length="209291496" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-16completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Lun 15/07/19</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-15completo.mp3" length="109026745" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-15completo.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>De Arriba Un Rayo - Vie 12/07/19</title>
 		<pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate>
 		<description></description>
 		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-12completo.mp3" length="102984936" type="audio/mpeg"/>
@@ -22,7 +49,7 @@
 	</item>
 
 	<item>
-		<title>De Arriba Un Rayo 11/07/19</title>
+		<title>De Arriba Un Rayo - Jue 11/07/19</title>
 		<pubDate>Thu, 11 Jul 2019 00:00:00 GMT</pubDate>
 		<description></description>
 		<enclosure url="http://audios.oceanofm.com/programas/DeArribaunRayo/19-07-11completo.mp3" length="209688976" type="audio/mpeg"/>

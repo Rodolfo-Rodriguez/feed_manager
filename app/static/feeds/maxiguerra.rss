@@ -10,7 +10,34 @@
         <link>https://espectador.com/otroelefante/maxiguerra</link>
     </image>
     <description>Columna de Maxi Guerra en Otro Elefante</description>
-    <pubDate>Sun, 14 Jul 2019 15:42:37 GMT</pubDate>
+    <pubDate>Thu, 18 Jul 2019 21:42:58 GMT</pubDate>
+
+	<item>
+		<title>El negro, del duelo a la elegancia </title>
+		<pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Maxi Guerra nos cuenta sobre el universo de este color, presente en diversas asociaciones y cómo ha evolucionado nuestras mentalidades.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2495.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2495.mp3</guid>
+                <itunes:duration>26:53</itunes:duration>
+	</item>
+
+	<item>
+		<title> La luna y el Maracanazo.¿Los dos mayores montajes de la historia?  </title>
+		<pubDate>Tue, 16 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Moncho y Maxi unen fuerzas para desenmascarar el gran montaje de nuestra historia</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2438.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2438.mp3</guid>
+                <itunes:duration>23:23</itunes:duration>
+	</item>
+
+	<item>
+		<title>Boxeo, funk y tiranía en la jungla </title>
+		<pubDate>Mon, 15 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Maxi Guerra habló de Rumble in the Jungle, un evento histórico que reunió a Muhammad Alí, George Foreman, James Brown, B.B. King y Mobutu, el temible dictador de Zaire</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2419.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2419.mp3</guid>
+                <itunes:duration>24:16</itunes:duration>
+	</item>
 
 	<item>
 		<title>Grandes fiascos de los mercados de pases </title>

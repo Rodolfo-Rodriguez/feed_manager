@@ -10,7 +10,43 @@
         <link>https://espectador.com/otroelefante</link>
     </image>
     <description>Otro Elefante en El Espectador</description>
-    <pubDate>Sun, 14 Jul 2019 15:42:32 GMT</pubDate>
+    <pubDate>Thu, 18 Jul 2019 21:40:15 GMT</pubDate>
+
+	<item>
+		<title>Programa completo del 18/07/2019 </title>
+		<pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Ríos —  Maxi Guerra: El negro, del duelo a la elegancia — Migue Dobrich: La batalla de Netflix  — Sergio Pena: Las fuerzas amadas</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2497.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2497.mp3</guid>
+                <itunes:duration>2:18:04</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del 17/07/2019 </title>
+		<pubDate>Wed, 17 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Hablemos de espionaje —  Migue Dobrich: ¿Pixar en crisis? — Marcos Silva: Visita la casa de la mala liga —  El Moncho: Si el tránsito nos llama, aquí estoy yo </description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2470.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2470.mp3</guid>
+                <itunes:duration>2:28:43</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del 16/07/2019 </title>
+		<pubDate>Tue, 16 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Elefantes en órbita — El Moncho y Maxi Guerra: La luna y el Maracanazo — Pablo Silvera: Testimonios de astronautas — Salva desenmascara a la NASA — L´almacen de los males necesarios: La ambición humana</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2447.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2447.mp3</guid>
+                <itunes:duration>2:33:48</itunes:duration>
+	</item>
+
+	<item>
+		<title>Programa completo del Lun 15/07/2019 </title>
+		<pubDate>Mon, 15 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Charla de arranque: Popurrí de hermandad — Moncho: Cotización del ¡Ey!, el débito a la mala pregunta — Maxi Guerra: Boxeo, funk y tiranía en la jungla — Darío Sztajnszrajber: El tiempo</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2425.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2425.mp3</guid>
+                <itunes:duration>2:36:35</itunes:duration>
+	</item>
 
 	<item>
 		<title>Programa completo del Vie 12/07/2019 </title>

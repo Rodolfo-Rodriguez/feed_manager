@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/facildesviarsemusic.rss" rel="self" type="application/rss+xml" />
+    <title>Facil Desviarse Music</title>
+    <link>https://delsol.uy/facildesviarse</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/facildesviarsemusic.jpg</url>
+        <title>Facil Desviarse Music</title>
+        <link>https://delsol.uy/facildesviarse</link>
+    </image>
+    <description></description>
+    <pubDate>Mon, 15 Jul 2019 21:47:23 GMT</pubDate>
+
+	<item>
+		<title>Fácil Desviarse en Pelotas </title>
+		<pubDate>Fri, 21 Jun 2019 12:00:00 GMT</pubDate>
+		<description>Una playlist que se presta para el chiste fácil. ¿Qué canciones eligieron Juanchi y Sapo con el concepto “en Pelotas” en mente?</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13521.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13521.mp3</guid>
+                <itunes:duration>39:33</itunes:duration>
+	</item>
+
+	<item>
+		<title>Las mejores letras del rock uruguayo </title>
+		<pubDate>Mon, 03 Jun 2019 12:00:00 GMT</pubDate>
+		<description>Está Buitres, La Vela Puerca, No Te Va Gustar y también Franny Glass, Hablan Por La Espalda y el Peyote Asesino, entre otras. ¿Para vos cuáles son las mejores letras del rock uruguayo?</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13182.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13182.mp3</guid>
+                <itunes:duration>32:47</itunes:duration>
+	</item>
+
+	<item>
+		<title>Argentina por Mandrake </title>
+		<pubDate>Mon, 13 May 2019 12:00:00 GMT</pubDate>
+		<description>La playlist del lunes estuvo a cargo de Mandrake Wolf. Charly García, Litto Nebbia y Sumo fueron algunos de los pasos en esta recorrida por la música argentina.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/12757.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/12757.mp3</guid>
+                <itunes:duration>41:38</itunes:duration>
+	</item>
+
+	<item>
+		<title>Los mejores riffs de la historia </title>
+		<pubDate>Tue, 26 Feb 2019 12:00:00 GMT</pubDate>
+		<description>Según el criterio de Juanchi y Sapo, esta es la lista con los mejores riffs de la historia de la música. Del Sol y Fácil Desviarse no se hacen cargo.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/11217.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/11217.mp3</guid>
+                <itunes:duration>82:09</itunes:duration>
+	</item>
+
+	<item>
+		<title>La playlist de Gabriel Peluffo: arrabal </title>
+		<pubDate>Fri, 07 Dec 2018 12:00:00 GMT</pubDate>
+		<description>Antes de la presentación de “Barro y asfalto” en BluzzLive, Peluffo nos trajo una lista de canciones ajenas pero con ese mismo espíritu.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/10247.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/10247.mp3</guid>
+                <itunes:duration>39:37</itunes:duration>
+	</item>
+
+	<item>
+		<title>Las influencias musicales del Peyote Asesino </title>
+		<pubDate>Tue, 11 Sep 2018 12:00:00 GMT</pubDate>
+		<description>Juan Campodónico y Fernando Santullo armaron una playlist con las influencias musicales del Peyote Asesino: hardcore, funk, hip hop, entre otros. </description>
+		<enclosure url="https://cdn.dl.uy//solmp3/8669.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/8669.mp3</guid>
+                <itunes:duration>39:53</itunes:duration>
+	</item>
+
+</channel></rss>

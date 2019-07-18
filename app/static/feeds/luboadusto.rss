@@ -10,7 +10,34 @@
         <link>https://www.oceano.uy/todopasa/137-coqueto-escenario</link>
     </image>
     <description>Periodista deportivo nacido en 1931. En Uruguay. Menos proceso y más pierna fuerte.</description>
-    <pubDate>Fri, 12 Jul 2019 18:55:42 GMT</pubDate>
+    <pubDate>Wed, 17 Jul 2019 22:25:21 GMT</pubDate>
+
+	<item>
+		<title>Locuras contigo</title>
+		<pubDate>Wed, 17 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Lubo Adusto se presentó con noticias insólitas. El cura volador en Brasil, el colombiano que llevó cocaína en una peluca</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-172amaanaCoquetoescenario.mp3" length="15634915" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-172amaanaCoquetoescenario.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Diga usted</title>
+		<pubDate>Tue, 16 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Con la presencia de Paty Pujol, además de ponerla incómoda con cuestiones de la vida, Lubo Adusto aprovechó para analiza</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-162amaanaconPatriciaPujolcoquetoescenario.mp3" length="27700143" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-162amaanaconPatriciaPujolcoquetoescenario.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Tiempos modernos</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description>El viejo Lubo Adusto volvió con noticias insólitas, como el ebrio que mandó a un ave enferma en un Uber, la final de Wim</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-152amaanaCoquetoescenario0.mp3" length="19332600" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-152amaanaCoquetoescenario0.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
 
 	<item>
 		<title>Yo, argentina</title>

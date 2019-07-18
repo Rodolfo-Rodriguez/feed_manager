@@ -10,7 +10,25 @@
         <link>https://espectador.com/otroelefante/moncho</link>
     </image>
     <description></description>
-    <pubDate>Fri, 12 Jul 2019 19:07:10 GMT</pubDate>
+    <pubDate>Wed, 17 Jul 2019 22:19:31 GMT</pubDate>
+
+	<item>
+		<title>Si el tránsito nos llama, aquí estoy yo  </title>
+		<pubDate>Wed, 17 Jul 2019 12:00:00 GMT</pubDate>
+		<description>El Moncho en su espacio de Responsabilidad Social Empresarial, nos propone soluciones funcionales para re diseñar la ciudad y que se transforme en la capital bicifriendly</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2465.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2465.mp3</guid>
+                <itunes:duration>25:40</itunes:duration>
+	</item>
+
+	<item>
+		<title>Cotización del ¡Ey!: el débito a la mala pregunta </title>
+		<pubDate>Mon, 15 Jul 2019 12:00:00 GMT</pubDate>
+		<description>El Moncho continúa agregando puntos a su manifiesto manteniendo la teoría de que Churchill y Lenin se conocieron. Además, agrega un servicio a la comunidad donde sus oyentes mediante un formulario podrán hacerle preguntas sin la necesidad de pararlo por la calle.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2423.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2423.mp3</guid>
+                <itunes:duration>34:51</itunes:duration>
+	</item>
 
 	<item>
 		<title>TED Vaticano  </title>
@@ -27,6 +45,15 @@
 		<description>El Moncho continúa agregando puntos a su manifiesto y sigue sin columna, pero esta vez explica sus razones.</description>
 		<enclosure url="https://cdn.espectador.com/810mp3/2288.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://cdn.espectador.com/810mp3/2288.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Una columna que no es columna </title>
+		<pubDate>Wed, 03 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Un manifiesto, integrado por el espacio de responsabilidad social empresarial, en el mundo de bicicletas, con promesas electorales. El Moncho, un candidato con mirada periférica.  </description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2205.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2205.mp3</guid>
                 <itunes:duration>0</itunes:duration>
 	</item>
 

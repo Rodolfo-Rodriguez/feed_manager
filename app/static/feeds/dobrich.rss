@@ -10,7 +10,25 @@
         <link>https://espectador.com/otroelefante/dobrich</link>
     </image>
     <description>Columna de Miguel Angel Dobrich en Otro Elefante</description>
-    <pubDate>Sun, 14 Jul 2019 15:42:45 GMT</pubDate>
+    <pubDate>Thu, 18 Jul 2019 21:42:15 GMT</pubDate>
+
+	<item>
+		<title>La batalla de Netflix  </title>
+		<pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Cuál es la situación que atraviesa la plataforma digital más famosa de contenido audiovisual en streaming. En este informe del segundo cuarto del año, Migue Dobrich nos adelanta cuáles serán las posibles estrategias de la compañía para disminuir caída de sus suscriptores.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2494.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2494.mp3</guid>
+                <itunes:duration>25:10</itunes:duration>
+	</item>
+
+	<item>
+		<title>¿Pixar en crisis? </title>
+		<pubDate>Wed, 17 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Migue Dobrich nos hace un repaso sobre los estudios cinematográficos de animación que históricamente elaboraron éxitos, pero ¿existen secuelas en el actual mundo de Pixar?.</description>
+		<enclosure url="https://cdn.espectador.com/810mp3/2469.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.espectador.com/810mp3/2469.mp3</guid>
+                <itunes:duration>29:31</itunes:duration>
+	</item>
 
 	<item>
 		<title>O Terno </title>

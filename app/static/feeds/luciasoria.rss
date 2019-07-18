@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.the2rods.com/static/feeds/luciasoria.rss" rel="self" type="application/rss+xml" />
+    <title>Lucia Soria</title>
+    <link>https://delsol.uy/facildesviarse/pincheacocinero</link>
+    <image>
+    	<url>http://feeds.the2rods.com/static/images/podcasts/luciasoria.jpg</url>
+        <title>Lucia Soria</title>
+        <link>https://delsol.uy/facildesviarse/pincheacocinero</link>
+    </image>
+    <description></description>
+    <pubDate>Mon, 15 Jul 2019 21:25:37 GMT</pubDate>
+
+	<item>
+		<title>La tortilla: una comida donde no solo juegan las papas </title>
+		<pubDate>Thu, 11 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Un plato favorito donde pueden jugar muchas más cosas que las papas. En esta columna Lucía nos pasó unos piques para hacer una tortilla más variada.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13918.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13918.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>La línea de cuatro para que la pizza te salve el partido </title>
+		<pubDate>Thu, 04 Jul 2019 12:00:00 GMT</pubDate>
+		<description>Lucía Soria comenzó con su columna “De pinche a cocinero” en Fácil Desviarse. Todos podemos cocinar, pero con estos piques podemos cocinar un poco mejor.</description>
+		<enclosure url="https://cdn.dl.uy//solmp3/13790.mp3" length="0" type="audio/mpeg"/>
+		<guid>https://cdn.dl.uy//solmp3/13790.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+</channel></rss>

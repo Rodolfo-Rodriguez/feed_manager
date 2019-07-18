@@ -10,7 +10,16 @@
         <link>https://www.oceano.uy/todopasa</link>
     </image>
     <description>Programa periodístico de Oceano FM con Mariano Lopez, Andres Reyes, Majo Borjes e Ines Pereira.</description>
-    <pubDate>Mon, 15 Jul 2019 15:25:13 GMT</pubDate>
+    <pubDate>Tue, 16 Jul 2019 17:42:03 GMT</pubDate>
+
+	<item>
+		<title>Rita Segato, "la estrella de rock” del movimiento feminista</title>
+		<pubDate>Tue, 16 Jul 2019 00:00:00 GMT</pubDate>
+		<description>La antropóloga argentina fue distinguida como Visitante Ilustre de Montevideo y disertó sobre las causas de la violencia</description>
+		<enclosure url="http://audios.oceanofm.com/programas/19-07-16DelmiconRitaSegato.mp3" length="17542481" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/19-07-16DelmiconRitaSegato.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
 
 	<item>
 		<title>España compra goles</title>
@@ -45,6 +54,24 @@
 		<description>La Asociación de Trabajadores de Copsa realizó un paro sin aviso desde las 5 horas hasta las 9. "Tenemos problemas en re</description>
 		<enclosure url="http://audios.oceanofm.com/programas/19-07-15HumbertoCipitriaporparodeCopsa.mp3" length="2731679" type="audio/mpeg"/>
 		<guid>http://audios.oceanofm.com/programas/19-07-15HumbertoCipitriaporparodeCopsa.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Todo Pasa 15/07/19</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-15programaentero.mp3" length="185265949" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-15programaentero.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>El éxito de la música en redes y virales</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Old Town Road es un nuevo estilo de música country que lleva adelante Lil Nas X, un rapero de Atlanta de tan solo 19 año</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-152amaanaLapeadeCesarconelnuevocountry.mp3" length="27906615" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-152amaanaLapeadeCesarconelnuevocountry.mp3</guid>
                 <itunes:duration>0</itunes:duration>
 	</item>
 

@@ -10,14 +10,24 @@
         <link>https://www.oceano.uy/todopasa/147-musica</link>
     </image>
     <description>Columna de Cesar Sanguinetti en Oceano</description>
-    <pubDate>Fri, 12 Jul 2019 16:43:30 GMT</pubDate>
+    <pubDate>Tue, 16 Jul 2019 13:26:50 GMT</pubDate>
+
+	<item>
+		<title>El éxito de la música en redes y virales</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description>Old Town Road es un nuevo estilo de música country que lleva adelante Lil Nas X, un rapero de Atlanta de tan solo 19 año</description>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-152amaanaLapeadeCesarconelnuevocountry.mp3" length="27906615" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-152amaanaLapeadeCesarconelnuevocountry.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
 
 	<item>
 		<title>Lo mejor en la pantalla</title>
 		<pubDate>Mon, 08 Jul 2019 00:00:00 GMT</pubDate>
 		<description>César Sanguinetti presentó los mejores videoclip del año, nominados a los Premios Graffiti. Desde No te va gustar, pasan</description>
-		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-08cesar.mp3" length="0" type="audio/mpeg"/>
+		<enclosure url="http://audios.oceanofm.com/programas/TodoPasa/19-07-08cesar.mp3" length="46675490" type="audio/mpeg"/>
 		<guid>http://audios.oceanofm.com/programas/TodoPasa/19-07-08cesar.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 	<item>
@@ -26,6 +36,7 @@
 		<description>La banda se rearmó tras la partida de Diego Rossberg y sacaron su nuevo disco, "La llama”, que presentarán en la Sala del Museo, el próximo 6 de julio</description>
 		<enclosure url="https://audios.oceanofm.com/programas/TodoPasa/19-07-012amaanaLaPeadeCesarcon4pesosdepropina.mp3" length="0" type="audio/mpeg"/>
 		<guid>https://audios.oceanofm.com/programas/TodoPasa/19-07-012amaanaLaPeadeCesarcon4pesosdepropina.mp3</guid>
+                <itunes:duration>0</itunes:duration>
 	</item>
 
 </channel></rss>

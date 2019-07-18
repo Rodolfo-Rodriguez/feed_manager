@@ -10,7 +10,34 @@
         <link>https://www.oceano.uy/justiciainfinita</link>
     </image>
     <description>Justicia Infinita</description>
-    <pubDate>Sun, 14 Jul 2019 15:38:26 GMT</pubDate>
+    <pubDate>Wed, 17 Jul 2019 22:27:37 GMT</pubDate>
+
+	<item>
+		<title>Justicia Infinita 17/07/19</title>
+		<pubDate>Wed, 17 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-17programaentero.mp3" length="115328107" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-17programaentero.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Justicia Infinita - Mar 16/07/19</title>
+		<pubDate>Tue, 16 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-16programacompleto.mp3" length="114617159" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-16programacompleto.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
+
+	<item>
+		<title>Justicia Infinita - Lun 15/07/19</title>
+		<pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+		<description></description>
+		<enclosure url="http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-15programaentero.mp3" length="113689603" type="audio/mpeg"/>
+		<guid>http://audios.oceanofm.com/programas/JusticiaInfinita/19-07-15programaentero.mp3</guid>
+                <itunes:duration>0</itunes:duration>
+	</item>
 
 	<item>
 		<title>Justicia Infinita - Vie 12/07/19</title>
